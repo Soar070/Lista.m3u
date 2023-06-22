@@ -39,3 +39,7 @@ http://cdn.rtyh.xyz:80/agathamm/879523/85104
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TESTE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO TESTE 2
 
 http://cdn.teambr.live:80/ftulum/meeems/76697
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND SP HD
+
+http://212.102.60.39:2200/BRX/BAND__1_HD/tracks-v1a1/mono.m3u8

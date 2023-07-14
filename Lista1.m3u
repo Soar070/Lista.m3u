@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO BRASILIA HD
+http://pe.shortgod.com/lord20/tv2.php?id=554.ts
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO RJ HD
+http://pe.shortgod.com/lord20/tv2.php?id=553.ts
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO NORDESTE FHD
+http://cdnrede.com:80/1tpx402m/7FnPjJF/62745
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO NORDESTE FHD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/291
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO MINAS HD
+http://elmonkey.us:25461/Victor/Victor/91443
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO RJ 4K
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/508
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TEM BAURU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO TEM BAURU HD
+http://cdnrede.com:80/1tpx402m/7FnPjJF/173959
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TESTE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO TESTE 1
+http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1679798964_4d4afd922002fb69414191e7c579331fccfe1469
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV Integração Juiz de Fora HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",TV Integração Juiz de Fora HD
+http://cdn.rtyh.xyz:80/agathamm/879523/85104
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TESTE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO TESTE 2
+http://cdn.teambr.live:80/ftulum/meeems/76697

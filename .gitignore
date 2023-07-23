@@ -1,1 +1,13 @@
+sim#EXTM3U url-tvg=''
 
+#EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV HD
+http://7go.xyz:8080/matheuslopes/m2t4h6/116635
+
+#EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV SD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",REDE TV SD
+http://7go.xyz:8080/matheuslopes/m2t4h6/64620
+
+#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="CANAIS | ABERTOS",TV GAZETA HD
+https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w477325099.m3u8
+
+#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-name="TV GAZETA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="CANAIS | ABERTOS",TV GAZETA SD
+https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w767522095.m3u8

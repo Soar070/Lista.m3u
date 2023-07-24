@@ -62,3 +62,6 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w1040118666.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CENTRAL TV HD" tvg-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png/v1/fill/w_476,h_130,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_CentralTV_impress%C3%A3o_-_horizontal_pn.png" group-title="CANAIS | ABERTOS",CENTRAL TV HD
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w755764702.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vivax TV HD" tvg-logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_393,h_317,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png" group-title="CANAIS | ABERTOS",Vivax TV HD
+https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/chunklist.m3u8

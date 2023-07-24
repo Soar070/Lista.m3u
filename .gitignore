@@ -35,3 +35,21 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil-768x629.png" group-title="CANAIS | ABERTOS",REDE BRASIL SD
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1570px-TV_Brasil_logo_2019.svg.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
+http://milka99.xyz:80/703811133683/073445946502/17792
+
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1570px-TV_Brasil_logo_2019.svg.png" group-title="CANAIS | ABERTOS",TV BRASIL SD
+http://212.102.60.39:2200/BRX/Tv_Brasil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS | ABERTOS",TV CAMARA 1 HD
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS | ABERTOS",TV CAMARA 2 HD
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV MAX HD" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="CANAIS | ABERTOS",TV MAX HD
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV MAX SD" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="CANAIS | ABERTOS",TV MAX SD
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8

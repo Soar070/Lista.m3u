@@ -59,3 +59,6 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA SD" tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QO8MmZq-K5Gk0pBnkkRPvlipSQlbbHuOC9muJAgElQMQ.png" group-title="CANAIS | ABERTOS",TERRA VIVA SD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w1040118666.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CENTRAL TV HD" tvg-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png/v1/fill/w_476,h_130,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_CentralTV_impress%C3%A3o_-_horizontal_pn.png" group-title="CANAIS | ABERTOS",CENTRAL TV HD
+https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w755764702.m3u8

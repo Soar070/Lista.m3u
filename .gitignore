@@ -9,14 +9,11 @@ http://7go.xyz:8080/matheuslopes/m2t4h6/64620
 #EXTINF:-1 tvg-id="Tvgazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="CANAIS | ABERTOS",TV GAZETA HD
 https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w477325099.m3u8
 
-#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-name="TV GAZETA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="CANAIS | ABERTOS",TV GAZETA SD
-https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v77idR0aiumAO8NHR30sdmSvxIfBc1Xe7LSodR1IZtbn)/dm/3/x89qors/s/live-0.m3u8#cell=lnyc
-
 #EXTINF:-1 tvg-id="PRIMERTV" tvg-name="PRIMER TV HD" tvg-logo="http://primertv.com.br/img/logo.png" group-title="CANAIS | ABERTOS",PRIMER TV HD
 http://177.74.174.57:8080/hls/primertv.m3u8
 
-#EXTINF:-1 tvg-id="AGROBRASILTV" tvg-name="AGRO BRASIL TV HD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV HD
+#EXTINF:-1 tvg-id="AGROBRASILTV" tvg-name="AGRO BRASIL TV HD" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV HD
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="AGROBRASILTV" tvg-name="AGRO BRASIL TV SD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV SD
-https://server.flixtv.com.br:443/agrobrasiltv/agrobrasiltv/chunklist_w546533828.m3u8
+#EXTINF:-1 tvg-id="AGROBRASILTV" tvg-name="AGRO BRASIL TV SD" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV SD
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8

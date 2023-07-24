@@ -65,3 +65,12 @@ https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w755764702.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivax TV HD" tvg-logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_393,h_317,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png" group-title="CANAIS | ABERTOS",Vivax TV HD
 https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ISTV HD" tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="CANAIS | ABERTOS",ISTV HD
+https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV PADRE CÍCERO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLxv7TSANqESn8pnZtvd0RyxRtxMUvlTRrA&usqp.jpg" group-title="CANAIS | ABERTOS",TV PADRE CÍCERO HD
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w65073994.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV PADRE CÍCERO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLxv7TSANqESn8pnZtvd0RyxRtxMUvlTRrA&usqp.jpg" group-title="CANAIS | ABERTOS",TV PADRE CÍCERO HD
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8

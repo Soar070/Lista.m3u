@@ -17,3 +17,21 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3U
 
 #EXTINF:-1 tvg-id="AGROBRASILTV" tvg-name="AGRO BRASIL TV SD" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV SD
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/200px-Canal_Brasil_logo.svg.png" group-title="CANAIS | ABERTOS",CANAL BRASIL FHD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/236
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/200px-Canal_Brasil_logo.svg.png" group-title="CANAIS | ABERTOS",CANAL BRASIL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/237
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BOI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/300px-Logo_Canal_do_Boi_-_PNG.png" group-title="CANAIS | ABERTOS",CANAL BOI HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/486
+
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="CANAIS | ABERTOS",FUTURA HD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/243
+
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil-768x629.png" group-title="CANAIS | ABERTOS",REDE BRASIL HD
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil-768x629.png" group-title="CANAIS | ABERTOS",REDE BRASIL SD
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8

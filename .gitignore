@@ -53,3 +53,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV MAX SD" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="CANAIS | ABERTOS",TV MAX SD
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA HD" tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QO8MmZq-K5Gk0pBnkkRPvlipSQlbbHuOC9muJAgElQMQ.png" group-title="CANAIS | ABERTOS",TERRA VIVA HD
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA SD" tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QO8MmZq-K5Gk0pBnkkRPvlipSQlbbHuOC9muJAgElQMQ.png" group-title="CANAIS | ABERTOS",TERRA VIVA SD
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w1040118666.m3u8

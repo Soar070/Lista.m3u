@@ -143,3 +143,21 @@ http://212.102.60.39:2200/BRX/Globo_Brasilia_HDPLUS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO BRASILIA HD
 http://212.102.60.39:2200/BRX/Globo_Brasilia_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO NORDESTE HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO NORDESTE HD PLUS
+http://212.102.60.39:2200/BRX/Globo_Nordeste_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO NORDESTE HD
+http://212.102.60.39:2200/BRX/Globo_Nordeste_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO VERDES MARES HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO VERDES MARES HD PLUS
+http://212.102.60.39:2200/BRX/Globo_Verdes_Mares_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO VERDES MARES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO VERDES MARES HD
+http://212.102.60.39:2200/BRX/Globo_Verdes_Mares_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TV BAHIA HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO TV BAHIA HD PLUS
+http://212.102.60.39:2200/BRX/Globo_Tv_Bahia_HDPLUS/tracks-a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO TV BAHIA HD
+http://212.102.60.39:2200/BRX/Globo_Tv_Bahia_HD/tracks-v1a1/mono.m3u8

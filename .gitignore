@@ -114,18 +114,6 @@ http://199.127.60.83:16020
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RIO SUL ¹HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO RIO SUL ¹HD
 http://milka99.xyz:80/gWTS5z5Pgq/Z0ogH89m5o/73164
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ ²FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO ²FHD
-http://meuplay.shop:80/irdkth0i/kuwzx9y3/362
-
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO ³" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO F³
-http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1681854613_1e2859028074ae6895251423407dc7e203473348
-
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO SP ⁴FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO SP ⁴FHD
-http://meuplay.shop:80/60292083634/04921172528/715
-
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ ⁵FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO RJ ⁵FHD
-http://meuplay.shop:80/388268872802PW/845734081174PR/362
-
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO RJ HD PLUS
 http://212.102.60.39:2200/BRX/Globo_RJ_HDPLUS/tracks-v1a1/mono.m3u8
 

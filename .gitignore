@@ -143,3 +143,15 @@ http://212.102.60.39:2200/BRX/Globo_Tv_Bahia_HDPLUS/tracks-a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO TV BAHIA HD
 http://212.102.60.39:2200/BRX/Globo_Tv_Bahia_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/306
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND SP HD
+http://mn.appserv19.xyz:2095/Xplus-1-6n3hWT5VEa/kUoafVHmKP/485
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND SP HD
+http://208.115.225.174:14420
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND RJ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND RJ HD
+http://45.58.126.146:14148

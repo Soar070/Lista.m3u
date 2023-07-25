@@ -103,9 +103,6 @@ http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1680655882_11d437
 http://45.58.126.146:14014
 
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO
-http://meuplay.shop:80/4326848932/4239649832/750
-
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO
 http://185.150.190.225:16263
 
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO Sp

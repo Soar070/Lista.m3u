@@ -114,10 +114,10 @@ http://212.102.60.39:2200/BRX/Globo_RJ_HDPLUS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO RJ HD
 http://212.102.60.39:2200/BRX/Globo_RJ_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO SP HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO SP HD PLUS
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO SP HD PLUS
 http://212.102.60.39:2200/BRX/Globo_SP_HDPLUS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO SP HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO SP HD
 http://212.102.60.39:2200/BRX/Globo_SP_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO BRASILIA HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO BRASILIA HD PLUS

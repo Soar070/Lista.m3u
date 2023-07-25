@@ -1,4 +1,4 @@
-sim#EXTM3U url-tvg='http://7go.xyz:8080/xmltv.php?username=matheuslopes&password=m2t4h6'
+sim#EXTM3U url-tvg=''
 
 #EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV SD
 http://7go.xyz:8080/matheuslopes/m2t4h6/31376
@@ -155,3 +155,24 @@ http://208.115.225.174:14420
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="BAND RJ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND RJ HD
 http://45.58.126.146:14148
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT FHD
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT FHD
+http://45.58.126.146:14123
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT UHD
+http://199.127.60.83:16170/
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT HD
+http://xcui.vitvabc.xyz:8880/287994014865/287994014865/16749
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT SP FHD
+http://testo.app-host11.xyz:2095/Tourobox1-4LFuYHgELc/UqjOJYPl2q/510
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT UHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/392
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT 4K
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/510

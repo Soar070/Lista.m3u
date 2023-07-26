@@ -9,37 +9,37 @@ http://7go.xyz:8080/matheuslopes/m2t4h6/64620
 #EXTINF:-1 tvg-id="Tvgazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="CANAIS | ABERTOS",TV GAZETA HD
 https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w477325099.m3u8
 
-#EXTINF:-1 tvg-id="PRIMERTV" tvg-name="PRIMER TV HD" tvg-logo="http://primertv.com.br/img/logo.png" group-title="CANAIS | ABERTOS",PRIMER TV HD
+#EXTINF:-1 tvg-id="PRIMERTV.br" tvg-name="PRIMER TV HD" tvg-logo="http://primertv.com.br/img/logo.png" group-title="CANAIS | ABERTOS",PRIMER TV HD
 http://177.74.174.57:8080/hls/primertv.m3u8
 
-#EXTINF:-1 tvg-id="AGROBRASILTV" tvg-name="AGRO BRASIL TV HD" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV HD
+#EXTINF:-1 tvg-id="AGROBRASILTV.br" tvg-name="AGRO BRASIL TV HD" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV HD
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="AGROBRASILTV" tvg-name="AGRO BRASIL TV SD" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV SD
+#EXTINF:-1 tvg-id="AGROBRASILTV.br" tvg-name="AGRO BRASIL TV SD" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV SD
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/200px-Canal_Brasil_logo.svg.png" group-title="CANAIS | ABERTOS",CANAL BRASIL FHD
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/200px-Canal_Brasil_logo.svg.png" group-title="CANAIS | ABERTOS",CANAL BRASIL FHD
 http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/236
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/200px-Canal_Brasil_logo.svg.png" group-title="CANAIS | ABERTOS",CANAL BRASIL HD
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/200px-Canal_Brasil_logo.svg.png" group-title="CANAIS | ABERTOS",CANAL BRASIL HD
 http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/237
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL BOI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/300px-Logo_Canal_do_Boi_-_PNG.png" group-title="CANAIS | ABERTOS",CANAL BOI HD
 http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/486
 
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="CANAIS | ABERTOS",FUTURA HD
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="CANAIS | ABERTOS",FUTURA HD
 http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/243
 
-#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil-768x629.png" group-title="CANAIS | ABERTOS",REDE BRASIL HD
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil-768x629.png" group-title="CANAIS | ABERTOS",REDE BRASIL HD
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil-768x629.png" group-title="CANAIS | ABERTOS",REDE BRASIL SD
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil-768x629.png" group-title="CANAIS | ABERTOS",REDE BRASIL SD
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1570px-TV_Brasil_logo_2019.svg.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1570px-TV_Brasil_logo_2019.svg.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
 http://milka99.xyz:80/703811133683/073445946502/17792
 
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1570px-TV_Brasil_logo_2019.svg.png" group-title="CANAIS | ABERTOS",TV BRASIL SD
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1570px-TV_Brasil_logo_2019.svg.png" group-title="CANAIS | ABERTOS",TV BRASIL SD
 http://212.102.60.39:2200/BRX/Tv_Brasil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV CAMARA 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS | ABERTOS",TV CAMARA 1 HD
@@ -54,10 +54,10 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV MAX SD" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="CANAIS | ABERTOS",TV MAX SD
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA HD" tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QO8MmZq-K5Gk0pBnkkRPvlipSQlbbHuOC9muJAgElQMQ.png" group-title="CANAIS | ABERTOS",TERRA VIVA HD
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA HD" tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QO8MmZq-K5Gk0pBnkkRPvlipSQlbbHuOC9muJAgElQMQ.png" group-title="CANAIS | ABERTOS",TERRA VIVA HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA SD" tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QO8MmZq-K5Gk0pBnkkRPvlipSQlbbHuOC9muJAgElQMQ.png" group-title="CANAIS | ABERTOS",TERRA VIVA SD
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA SD" tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QO8MmZq-K5Gk0pBnkkRPvlipSQlbbHuOC9muJAgElQMQ.png" group-title="CANAIS | ABERTOS",TERRA VIVA SD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w1040118666.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CENTRAL TV HD" tvg-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png/v1/fill/w_476,h_130,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_CentralTV_impress%C3%A3o_-_horizontal_pn.png" group-title="CANAIS | ABERTOS",CENTRAL TV HD

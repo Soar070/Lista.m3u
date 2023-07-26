@@ -156,14 +156,14 @@ http://208.115.225.174:14420
 #EXTINF:-1 tvg-id="Band.br" tvg-name="BAND RJ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND RJ HD
 http://45.58.126.146:14148
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT FHD
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT SP HD
+http://212.102.60.39:2200/BRX/SBT_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT FHD
-http://45.58.126.146:14123
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD PLUS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT SP HD PLUS
+http://212.102.60.39:2200/BRX/SBT_HDPLUS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT UHD
-http://199.127.60.83:16170/
+http://212.102.60.39:2200/BRX/SBT_UHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT HD
 http://xcui.vitvabc.xyz:8880/287994014865/287994014865/16749

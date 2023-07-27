@@ -224,3 +224,9 @@ http://45.58.126.146:14303/
 
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS |FILMES E SERIES",CANAL SONY SD
 http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/393
+
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINE CANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/300px-CinecanalLA.png" group-title="CANAIS |FILMES E SERIES",CINE CANAL HD
+http://45.58.126.146:14326
+
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINE CANAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/300px-CinecanalLA.png" group-title="CANAIS |FILMES E SERIES",CINE CANAL SD
+http://212.102.60.39:2200/BRX/Cinecanal_HD/tracks-v1a1/mono.m3u8

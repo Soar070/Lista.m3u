@@ -251,3 +251,9 @@ http://45.58.126.146:14311/fx
 
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/320px-FX_International_logo.svg.png" group-title="CANAIS |FILMES E SERIES",FX SD
 http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/484
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/240px-Lifetime_logo17.svg.png" group-title="CANAIS |FILMES E SERIES",LIFETIME HD
+http://45.58.126.146:14314
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/240px-Lifetime_logo17.svg.png" group-title="CANAIS |FILMES E SERIES",LIFETIME SD
+http://meumd.com:80/beneditojp/goiptv2021/109463

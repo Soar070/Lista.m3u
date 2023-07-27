@@ -257,3 +257,9 @@ http://45.58.126.146:14314
 
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/240px-Lifetime_logo17.svg.png" group-title="CANAIS |FILMES E SERIES",LIFETIME SD
 http://meumd.com:80/beneditojp/goiptv2021/109463
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SERIES",MEGAPIX FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/491
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SERIES",MEGAPIX HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/270

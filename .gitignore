@@ -318,3 +318,21 @@ http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/402
 
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS |FILMES E SERIES",TCM HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-Oqjoyc3tlZ/ioOTQ8atYw/292.m3u8
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",TNT FHD
+http://45.58.126.146:14341/tnt
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",TNT HD
+http://45.58.126.146:14341
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",TNT SD
+http://45.58.126.146:14342
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SERIES",TNT SERIES FHD
+http://turoisherego.xyz:2095/Tourobox1-lives9556077276/7784489147/406
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SERIES",TNT SERIES HD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/406
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SERIES",TNT SERIES SD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/315

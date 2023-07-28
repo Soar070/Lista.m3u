@@ -6,7 +6,7 @@ http://7go.xyz:8080/matheuslopes/m2t4h6/31376
 #EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV HD
 http://7go.xyz:8080/matheuslopes/m2t4h6/64620
 
-#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="CANAIS | ABERTOS",TV GAZETA HD
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="CANAIS | ABERTOS",TV GAZETA HD
 https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w477325099.m3u8
 
 #EXTINF:-1 tvg-id="PRIMERTV.br" tvg-name="PRIMER TV HD" tvg-logo="http://primertv.com.br/img/logo.png" group-title="CANAIS | ABERTOS",PRIMER TV HD
@@ -294,3 +294,12 @@ http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/282
 
 #EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SERIES",STAR CHANNEL SD
 http://45.58.126.146:14329/
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png" group-title="CANAIS |FILMES E SERIES",STUDIO UNIVERSAL FHD
+http://45.58.126.146:14332
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png" group-title="CANAIS |FILMES E SERIES",STUDIO UNIVERSAL HD
+http://45.58.126.146:14332/Studiouniversal
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png" group-title="CANAIS |FILMES E SERIES",STUDIO UNIVERSAL SD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/489

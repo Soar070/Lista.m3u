@@ -285,3 +285,12 @@ http://195.181.163.144:14730
 
 #EXTINF:-1 tvg-id="Spacehd.br" tvg-name="SPACE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/320px-SpaceLogo.svg.png" group-title="CANAIS |FILMES E SERIES",SPACE SD
 http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/395
+
+#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SERIES",STAR CHANNEL FHD
+http://45.58.126.146:14329/starchannel
+
+#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SERIES",STAR CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/282
+
+#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SERIES",STAR CHANNEL SD
+http://45.58.126.146:14329/

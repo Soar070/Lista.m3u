@@ -363,3 +363,12 @@ http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/302
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",ANIMAL PLANET SD
 http://199.127.60.83:16192
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
+http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/521
+
+#EXTINF:-1 tvg-id=".Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/319
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/318

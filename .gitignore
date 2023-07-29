@@ -336,3 +336,21 @@ http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/406
 
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SERIES",TNT SERIES SD
 http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/315
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" group-title="CANAIS |FILMES E SERIES",UNIVERSAL TV FHD
+http://51.83.238.223:16883
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" group-title="CANAIS |FILMES E SERIES",UNIVERSAL TV HD
+http://45.58.126.146:14348/universal
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" group-title="CANAIS |FILMES E SERIES",UNIVERSAL TV SD
+http://45.58.126.146:14348
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SERIES",WARNER CHANNEL FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/422
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SERIES",WARNER CHANNEL HD
+http://45.58.126.146:14351/
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SERIES",WARNER CHANNEL SD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/320

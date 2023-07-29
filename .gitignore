@@ -387,3 +387,33 @@ http://45.58.126.146:14258/
 
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/216px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY ID HD
 http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/369
+
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/375px-Science_Channel_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",Discovery Science FHD
+http://45.58.126.146:14264/
+
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/375px-Science_Channel_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",Discovery Science HD
+http://45.58.126.146:14261
+
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/375px-Science_Channel_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",Discovery Science SD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/321
+
+#EXTINF:-1 tvg-id="Discoverytheaterhd.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY THEATER FHD
+http://turoisherego.xyz:2095/Tourobox1-lives9556077276/7784489147/322
+
+#EXTINF:-1 tvg-id="Discoverytheaterhd.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY THEATER HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/322
+
+#EXTINF:-1 tvg-id="Discoverytheaterhd.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY THEATER SD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/322
+
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY TURBO FHD
+http://45.58.126.146:14267/
+
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY TURBO HD
+http://45.58.126.146:14267
+
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY TURBO SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/324
+
+#EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY WORLD HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/325

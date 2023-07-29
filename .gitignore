@@ -372,3 +372,12 @@ http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/319
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
 http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/318
+
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/300px-Discovery_H%26H_Logo_2022.webp.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY H&H FHD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/1021
+
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/300px-Discovery_H%26H_Logo_2022.webp.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY H&H HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/320
+
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/300px-Discovery_H%26H_Logo_2022.webp.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY H&H SD
+http://45.58.126.146:14255/

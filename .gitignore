@@ -417,3 +417,12 @@ http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/324
 
 #EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY WORLD HD
 http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/325
+
+#EXTINF:-1 tvg-id="H2.br" tvg-name="History 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/270px-History2Logo2019.png" group-title="CANAIS |DOCUMENTÁRIOS",History 2 FHD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/350
+
+#EXTINF:-1 tvg-id="H2.br" tvg-name="History 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/270px-History2Logo2019.png" group-title="CANAIS |DOCUMENTÁRIOS",History 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/815
+
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/320px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",HGTV HD
+http://15.235.10.31:14413

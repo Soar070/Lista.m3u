@@ -27,8 +27,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b98
 #EXTINF:-1 tvg-id="" tvg-name="CINE COMÉDIA HD" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV FILMES",CINE COMÉDIA HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-EXTINF:-1 tvg-id="" tvg-name="CINE COMÉDIA ROMÂNTICA HD" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV FILMES",CINE COMÉDIA ROMÂNTICA HD
+EXTINF:-1 tvg-id="" tvg-name="CINE COMÉDIAS ROMÂNTICA HD" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV FILMES",CINE COMÉDIAS ROMÂNTICA HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-EXTINF:-1 tvg-id="" tvg-name="CINE COMÉDIA ROMÂNTICA HD" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV FILMES",CINE COMÉDIA ROMÂNTICA HD
+EXTINF:-1 tvg-id="" tvg-name="CINE COMÉDIAS ROMÂNTICA HD" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS | PLUTO TV FILMES",CINE COMÉDIAS ROMÂNTICA HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1

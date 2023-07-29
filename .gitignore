@@ -435,3 +435,12 @@ http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/351
 
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",HISTORY SD
 http://mn.appserv19.xyz:2095/live/Xplus-1-Oqjoyc3tlZ/ioOTQ8atYw/82.m3u8
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS |DOCUMENTÁRIOS",National Geographic FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/373
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS |DOCUMENTÁRIOS",National Geographic HD
+http://84.17.44.179:14635/natgeo
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS |DOCUMENTÁRIOS",National Geographic SD
+http://45.58.126.146:14287

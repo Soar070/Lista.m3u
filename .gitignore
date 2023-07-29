@@ -381,3 +381,9 @@ http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/320
 
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/300px-Discovery_H%26H_Logo_2022.webp.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY H&H SD
 http://45.58.126.146:14255/
+
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/216px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY ID FHD
+http://45.58.126.146:14258/
+
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/216px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY ID HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/369

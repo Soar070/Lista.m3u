@@ -444,3 +444,12 @@ http://84.17.44.179:14635/natgeo
 
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS |DOCUMENTÁRIOS",National Geographic SD
 http://45.58.126.146:14287
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/320px-TLC_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",TLC FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/403
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/320px-TLC_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",TLC HD
+http://45.58.126.146:14270/tlc
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/320px-TLC_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",TLC SD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/92

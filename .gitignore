@@ -474,3 +474,9 @@ http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/98
 
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
 http://212.102.60.39:2200/BRX/Comedy_Central_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CurtaRelevante.png/375px-CurtaRelevante.png" group-title="CANAIS | VARIEDADES",CURTA! FHD
+http://7go.xyz:8080/quinho93018/quin3571/22318
+
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CurtaRelevante.png/375px-CurtaRelevante.png" group-title="CANAIS | VARIEDADES",CURTA! HD
+http://cdnrede.com:80/1tpx402m/7FnPjJF/5267

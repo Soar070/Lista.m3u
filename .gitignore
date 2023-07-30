@@ -453,3 +453,9 @@ http://45.58.126.146:14270/tlc
 
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/320px-TLC_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",TLC SD
 http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/92
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/480px-Arte_1_logo.svg.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
+http://mn.appserv19.xyz:2095/Xplus-1-6n3hWT5VEa/kUoafVHmKP/232
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/480px-Arte_1_logo.svg.png" group-title="CANAIS | VARIEDADES",ARTE 1 SD
+http://mn.appserv19.xyz:2095/Xplus-1-6n3hWT5VEa/kUoafVHmKP/231

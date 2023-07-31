@@ -501,3 +501,18 @@ http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/453
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_MTV_Brasil_2012.svg/1200px-Logo_MTV_Brasil_2012.svg.png" group-title="CANAIS | VARIEDADES",MTV HD
 http://187.95.95.243:80/mtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/1200px-Multishow_logo_red_2012.svg.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/372
+
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="CANAIS | VARIEDADES",TRU TV HD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/745
+
+#EXTINF:-1 tvg-id="Primeboxbrasil.br" tvg-name="PRIME BOX BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/PrimeBoxBrazil2019.png/345px-PrimeBoxBrazil2019.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRASIL HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/386
+
+#EXTINF:-1 tvg-id="Musictop.br" tvg-name="MUSIC TOP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="CANAIS | VARIEDADES",MUSIC TOP HD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Musictop.br" tvg-name="MUSIC TOP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="CANAIS | VARIEDADES",MUSIC TOP SD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8

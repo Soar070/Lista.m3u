@@ -519,3 +519,12 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w53831157
 
 #EXTINF:-1 tvg-id="Saborarte.br" tvg-name="SABOR & ARTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE HD AT
 http://milka99.xyz:80/703811133683/073445946502/40636
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/320px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS | VARIEDADES",VIVA FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/420
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/320px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS | VARIEDADES",VIVA HD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/420
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/320px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS | VARIEDADES",VIVA SD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/421

@@ -559,11 +559,11 @@ http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/354
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CANAIS | HBO",HBO 2 SD
 http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/353
 
-#EXTINF:-1 tvg-id="Hbopluse.br" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS | HBO",HBO PLUS HD
+#EXTINF:-1 tvg-id="Hbopluse.br" tvg-name="HBO PLUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS | HBO",HBO PLUS FHD
 http://212.102.60.39:2200/BRX/HBO_Plus_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Hbopluse.br" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS | HBO",HBO PLUS HD
 http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/361
 
-#EXTINF:-1 tvg-id="Hbopluse.br" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS | HBO",HBO PLUS HD
+#EXTINF:-1 tvg-id="Hbopluse.br" tvg-name="HBO PLUS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS | HBO",HBO PLUS SD
 http://212.102.60.39:2200/BRX/HBO_Plus_HD/tracks-v1a1/mono.m3u8

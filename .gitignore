@@ -543,3 +543,12 @@ http://7go.xyz:8080/quinho93018/quin3571/22469
 
 #EXTINF:-1 tvg-id="Dogtv.br" tvg-name="DOG TV HD" tvg-logo="https://imgur.com/sfpVDnt.png" group-title="CANAIS | VARIEDADES",DOG TV HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-Oqjoyc3tlZ/ioOTQ8atYw/879.m3u8
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="HBO HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="CANAIS | HBO",HBO HD PLUS
+http://212.102.60.39:2200/BRX/HBO1_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="CANAIS | HBO",HBO HD
+http://212.102.60.39:2200/BRX/HBO1_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="HBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="CANAIS | HBO",HBO SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/355

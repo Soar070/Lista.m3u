@@ -496,8 +496,8 @@ http://meumd.com:80/beneditojp/goiptv2021/109472
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/300px-GNT_logo-roxo.svg.png" group-title="CANAIS | VARIEDADES",GNT HD
 http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/349
 
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrOfZdiy9C-2DsMaoXRMJ4lMbRsj3vsmL8Wtdg71hGG4A.png" group-title="CANAIS | VARIEDADES",MTV FHD
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_MTV_Brasil_2012.svg/1200px-Logo_MTV_Brasil_2012.svg.png" group-title="CANAIS | VARIEDADES",MTV HD
 http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/453
 
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrOfZdiy9C-2DsMaoXRMJ4lMbRsj3vsmL8Wtdg71hGG4A.png" group-title="CANAIS | VARIEDADES",MTV HD
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_MTV_Brasil_2012.svg/1200px-Logo_MTV_Brasil_2012.svg.png" group-title="CANAIS | VARIEDADES",MTV HD
 http://187.95.95.243:80/mtv/tracks-v1a1/mono.m3u8

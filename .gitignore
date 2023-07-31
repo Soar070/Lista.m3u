@@ -516,3 +516,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 
 #EXTINF:-1 tvg-id="Musictop.br" tvg-name="MUSIC TOP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="CANAIS | VARIEDADES",MUSIC TOP SD
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Saborarte.br" tvg-name="SABOR & ARTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE HD AT
+http://milka99.xyz:80/703811133683/073445946502/40636

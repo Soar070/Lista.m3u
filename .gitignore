@@ -636,3 +636,15 @@ http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/414
 
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
 http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/414
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/800px-Telecine_Premium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/415
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/800px-Telecine_Premium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/416
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/800px-Telecine_Premium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/415
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Telecine_Touch_%282019%29.svg/1024px-Telecine_Touch_%282019%29.svg.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/417

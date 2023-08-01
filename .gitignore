@@ -648,3 +648,12 @@ http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/415
 
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Telecine_Touch_%282019%29.svg/1024px-Telecine_Touch_%282019%29.svg.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
 http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/417
+
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/320px-BandSports_logo.svg.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/121
+
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/320px-BandSports_logo.svg.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
+http://212.102.60.39:2200/BRX/Band_Sports_UHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/320px-BandSports_logo.svg.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
+http://cdnrede.com:80/live/1tpx402m/7FnPjJF/59870.m3u8

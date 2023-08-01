@@ -675,3 +675,18 @@ http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/139
 
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/315px-2015_Fox_sports_logo.svg.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
 http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/140
+
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/320px-Canal_Off_logo.svg.png" group-title="CANAIS | ESPORTES",OFF HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/546
+
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD" tvg-logo="https://woohoo.com.br/wp-content/uploads/2021/01/logo-woohoo-10.png" group-title="CANAIS | ESPORTES",WOOHOO FHD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/117
+
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://woohoo.com.br/wp-content/uploads/2021/01/logo-woohoo-10.png" group-title="CANAIS | ESPORTES",WOOHOO HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/424
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="RED BULL TV FHD" tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="CANAIS | ESPORTES",RED BULL TV FHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="Redbull.br" tvg-name="RED BULL TV HD" tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="CANAIS | ESPORTES",RED BULL TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8

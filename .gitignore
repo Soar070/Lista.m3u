@@ -621,3 +621,18 @@ http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/407
 
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
 http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/407
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Cult_2019.png/800px-Telecine_Cult_2019.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/409
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Telecine_Fun_%282019%29.svg/375px-Telecine_Fun_%282019%29.svg.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/411
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/413
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/414
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/414

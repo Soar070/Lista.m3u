@@ -612,3 +612,12 @@ http://212.102.60.39:2200/BRX/HBO_Mundi_HDPLUS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1024px-HBO_Mundi.svg.png" group-title="CANAIS | HBO",HBO MUNDI SD
 http://212.102.60.39:2200/BRX/HBO_Mundi_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/408
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/407
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/407

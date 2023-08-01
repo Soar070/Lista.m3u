@@ -603,3 +603,12 @@ http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/365
 
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="CANAIS | HBO",HBO POP SD
 http://212.102.60.39:2200/BRX/HBO_POP_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1024px-HBO_Mundi.svg.png" group-title="CANAIS | HBO",HBO MUNDI FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/367
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1024px-HBO_Mundi.svg.png" group-title="CANAIS | HBO",HBO MUNDI HD
+http://212.102.60.39:2200/BRX/HBO_Mundi_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1024px-HBO_Mundi.svg.png" group-title="CANAIS | HBO",HBO MUNDI SD
+http://212.102.60.39:2200/BRX/HBO_Mundi_HD/tracks-v1a1/mono.m3u8

@@ -657,3 +657,9 @@ http://212.102.60.39:2200/BRX/Band_Sports_UHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/320px-BandSports_logo.svg.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
 http://cdnrede.com:80/live/1tpx402m/7FnPjJF/59870.m3u8
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1596px-Canal-combate-logo.png" group-title="CANAIS | ESPORTES",COMBATE FHD
+http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/282
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1596px-Canal-combate-logo.png" group-title="CANAIS | ESPORTES",COMBATE HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/283

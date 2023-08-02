@@ -690,3 +690,30 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="Redbull.br" tvg-name="RED BULL TV HD" tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="CANAIS | ESPORTES",RED BULL TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS |SPORTV",SPORTV FHD
+http://212.102.60.39:2200/BRX/SporTV_1_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS |SPORTV",SPORTV HD
+http://212.102.60.39:2200/BRX/SporTV_1_UHD/tracks-a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS |SPORTV",SPORTV SD
+http://212.102.60.39:2200/BRX/SporTV_1_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 fHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/320px-SporTV_2_2017_logo.svg.png" group-title="CANAIS |SPORTV",SPORTV 2 FHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/533
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/320px-SporTV_2_2017_logo.svg.png" group-title="CANAIS |SPORTV",SPORTV 2 HD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/47.ts
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/320px-SporTV_2_2017_logo.svg.png" group-title="CANAIS |SPORTV",SPORTV 2 SD
+http://212.102.60.39:2200/BRX/SporTV_2_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="CANAIS |SPORTV",SPORTV 3 FHD
+http://212.102.60.39:2200/BRX/SporTV_3_UHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="CANAIS |SPORTV",SPORTV 3 HD
+http://212.102.60.39:2200/BRX/SporTV_3_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="CANAIS |SPORTV",SPORTV 3 SD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/48

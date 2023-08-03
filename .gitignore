@@ -538,9 +538,6 @@ http://45.58.126.146:14338/tbs
 #EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/619px-FashionTV2019novo.png" group-title="CANAIS | VARIEDADES",FASHION TV HD
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cheftv.br" tvg-name="CHEF TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1c/LOGOCHEFTV.jpg/250px-LOGOCHEFTV.jpg" group-title="CANAIS | VARIEDADES",CHEF TV HD
-http://7go.xyz:8080/quinho93018/quin3571/22469
-
 #EXTINF:-1 tvg-id="Dogtv.br" tvg-name="DOG TV HD" tvg-logo="https://imgur.com/sfpVDnt.png" group-title="CANAIS | VARIEDADES",DOG TV HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-Oqjoyc3tlZ/ioOTQ8atYw/879.m3u8
 

@@ -1,8 +1,8 @@
 sim#EXTM3U url-tvg=''
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO SP HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/58d82f268419c267b7379351/1540399312924-M10BZV3WTQXF25I5X2QV/globo.png" group-title="CANAIS |GLOBO",GLOBO SP HD
 http://esrv.cc:80/berepolici/Bolsonaro2022/223.ts
 
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO SP SD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD"https://images.squarespace-cdn.com/content/v1/58d82f268419c267b7379351/1540399312924-M10BZV3WTQXF25I5X2QV/globo.png" group-title="CANAIS |GLOBO",GLOBO SP SD
 http://esrv.cc:80/berepolici/Bolsonaro2022/224.ts

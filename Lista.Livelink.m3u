@@ -5,3 +5,9 @@ http://esrv.cc:80/berepolici/Bolsonaro2022/223.ts
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="https://images.squarespace-cdn.com/content/v1/58d82f268419c267b7379351/1540399312924-M10BZV3WTQXF25I5X2QV/globo.png" group-title="CANAIS |GLOBO",GLOBO SP SD
 http://esrv.cc:80/berepolici/Bolsonaro2022/224.ts
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/58d82f268419c267b7379351/1540399312924-M10BZV3WTQXF25I5X2QV/globo.png" group-title="CANAIS |GLOBO",GLOBO RJ HD
+http://esrv.cc:80/berepolici/Bolsonaro2022/217.ts
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://images.squarespace-cdn.com/content/v1/58d82f268419c267b7379351/1540399312924-M10BZV3WTQXF25I5X2QV/globo.png" group-title="CANAIS |GLOBO",GLOBO RJ SD
+http://esrv.cc:80/berepolici/Bolsonaro2022/216.ts

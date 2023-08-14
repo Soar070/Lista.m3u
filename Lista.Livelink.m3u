@@ -75,14 +75,3 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w6507399
 #EXTINF:-1 tvg-id="" tvg-name="TV PADRE CÍCERO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLxv7TSANqESn8pnZtvd0RyxRtxMUvlTRrA&usqp.jpg" group-title="CANAIS | ABERTOS",TV PADRE CÍCERO HD
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/58d82f268419c267b7379351/1540399312924-M10BZV3WTQXF25I5X2QV/globo.png" group-title="CANAIS |GLOBO",GLOBO SP HD
-http://esrv.cc:80/berepolici/Bolsonaro2022/223.ts
-
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="https://images.squarespace-cdn.com/content/v1/58d82f268419c267b7379351/1540399312924-M10BZV3WTQXF25I5X2QV/globo.png" group-title="CANAIS |GLOBO",GLOBO SP SD
-http://esrv.cc:80/berepolici/Bolsonaro2022/224.ts
-
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/58d82f268419c267b7379351/1540399312924-M10BZV3WTQXF25I5X2QV/globo.png" group-title="CANAIS |GLOBO",GLOBO RJ HD
-http://esrv.cc:80/berepolici/Bolsonaro2022/217.ts
-
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://images.squarespace-cdn.com/content/v1/58d82f268419c267b7379351/1540399312924-M10BZV3WTQXF25I5X2QV/globo.png" group-title="CANAIS |GLOBO",GLOBO RJ SD
-http://esrv.cc:80/berepolici/Bolsonaro2022/216.ts

@@ -75,3 +75,645 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w6507399
 #EXTINF:-1 tvg-id="" tvg-name="TV PADRE CÍCERO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLxv7TSANqESn8pnZtvd0RyxRtxMUvlTRrA&usqp.jpg" group-title="CANAIS | ABERTOS",TV PADRE CÍCERO HD
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO RJ HD
+http://testo.app-host11.xyz:2095/Tourobox1-4LFuYHgELc/UqjOJYPl2q/508
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RBS PORTO ALEGRE HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO RBS PORTO ALEGRE HD
+http://milka99.xyz:80/703811133683/073445946502/33941
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO RJ
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/508
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO NSC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO NSC HD
+http://191.37.250.169:8801/live/NSC/720p.m3u8
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO RJ
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/508
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO NORDESTE HD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/291
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO SP
+http://cdn.teambr.live:80/ftulum/meeems/76697
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO
+http://45.58.126.146:14014
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO
+http://185.150.190.225:16263
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO Sp
+http://199.127.60.83:16020
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RIO SUL ¹HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO RIO SUL ¹HD
+http://milka99.xyz:80/gWTS5z5Pgq/Z0ogH89m5o/73164
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO RJ HD PLUS
+http://212.102.60.39:2200/BRX/Globo_RJ_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO RJ HD
+http://212.102.60.39:2200/BRX/Globo_RJ_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO SP HD PLUS
+http://212.102.60.39:2200/BRX/Globo_SP_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO SP HD
+http://212.102.60.39:2200/BRX/Globo_SP_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globobrasilia.br" tvg-name="GLOBO BRASILIA HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO BRASILIA HD PLUS
+http://212.102.60.39:2200/BRX/Globo_Brasilia_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globobrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO BRASILIA HD
+http://212.102.60.39:2200/BRX/Globo_Brasilia_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO NORDESTE HD PLUS
+http://212.102.60.39:2200/BRX/Globo_Nordeste_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO NORDESTE HD
+http://212.102.60.39:2200/BRX/Globo_Nordeste_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO VERDES MARES HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO VERDES MARES HD PLUS
+http://212.102.60.39:2200/BRX/Globo_Verdes_Mares_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO VERDES MARES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO VERDES MARES HD
+http://212.102.60.39:2200/BRX/Globo_Verdes_Mares_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="tvbahia.br" tvg-name="GLOBO TV BAHIA HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO TV BAHIA HD PLUS
+http://212.102.60.39:2200/BRX/Globo_Tv_Bahia_HDPLUS/tracks-a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="tvbahia.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Globo_logo_%282020-%29.svg/1236px-Globo_logo_%282020-%29.svg.png" group-title="CANAIS |GLOBO",GLOBO TV BAHIA HD
+http://212.102.60.39:2200/BRX/Globo_Tv_Bahia_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/306
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND SP HD
+http://mn.appserv19.xyz:2095/Xplus-1-6n3hWT5VEa/kUoafVHmKP/485
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND SP HD
+http://208.115.225.174:14420
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND RJ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND RJ HD
+http://45.58.126.146:14148
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT SP HD
+http://212.102.60.39:2200/BRX/SBT_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD PLUS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT SP HD PLUS
+http://212.102.60.39:2200/BRX/SBT_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT UHD
+http://212.102.60.39:2200/BRX/SBT_UHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT HD
+http://xcui.vitvabc.xyz:8880/287994014865/287994014865/16749
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT SP FHD
+http://testo.app-host11.xyz:2095/Tourobox1-4LFuYHgELc/UqjOJYPl2q/510
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT UHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/392
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT 4K
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/510
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD RJ UHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/633
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD RJ HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/527
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD SP HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/999
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD SP UHD
+http://212.102.60.39:2200/BRX/Record_Tv_UHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SERIES",A&E FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/458
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SERIES",A&E HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/226
+
+#EXTINF:-1 tvg-id="A&e.br" tvg-name="A&E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SERIES",A&E SD
+http://mn.appserv19.xyz:2095/Xplus-1-6n3hWT5VEa/kUoafVHmKP/226
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",AMC FHD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/228
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",AMC HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/229
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",AMC SD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/229
+
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" group-title="CANAIS |FILMES E SERIES",AXN FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31271
+
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" group-title="CANAIS |FILMES E SERIES",AXN HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/304
+
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" group-title="CANAIS |FILMES E SERIES",AXN SD
+http://212.102.60.39:2200/BRX/AXN_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS |FILMES E SERIES",CANAL SONY FHD
+http://199.127.60.83:16063
+
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS |FILMES E SERIES",CANAL SONY HD
+http://45.58.126.146:14303/
+
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS |FILMES E SERIES",CANAL SONY SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/393
+
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINE CANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/300px-CinecanalLA.png" group-title="CANAIS |FILMES E SERIES",CINE CANAL HD
+http://45.58.126.146:14326
+
+#EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="CINE CANAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/300px-CinecanalLA.png" group-title="CANAIS |FILMES E SERIES",CINE CANAL SD
+http://212.102.60.39:2200/BRX/Cinecanal_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" group-title="CANAIS |FILMES E SERIES",CINEMAX FHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/312
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" group-title="CANAIS |FILMES E SERIES",CINEMAX HD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/311
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" group-title="CANAIS |FILMES E SERIES",CINEMAX SD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/240
+
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM & ARTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="CANAIS |FILMES E SERIES",FILM & ARTS HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/492
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/320px-FX_International_logo.svg.png" group-title="CANAIS |FILMES E SERIES",FX FHD
+http://45.58.126.146:14311/
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/320px-FX_International_logo.svg.png" group-title="CANAIS |FILMES E SERIES",FX HD
+http://45.58.126.146:14311/fx
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/320px-FX_International_logo.svg.png" group-title="CANAIS |FILMES E SERIES",FX SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/484
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/240px-Lifetime_logo17.svg.png" group-title="CANAIS |FILMES E SERIES",LIFETIME HD
+http://45.58.126.146:14314
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/240px-Lifetime_logo17.svg.png" group-title="CANAIS |FILMES E SERIES",LIFETIME SD
+http://meumd.com:80/beneditojp/goiptv2021/109463
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SERIES",MEGAPIX FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/491
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SERIES",MEGAPIX HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/270
+
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SERIES",MEGAPIX SD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/998
+
+#EXTINF:-1 tvg-id="Paramount.br" tvg-name="paramount network FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/263px-Paramount_Network.svg.png" group-title="CANAIS |FILMES E SERIES",paramount network FHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/541
+
+#EXTINF:-1 tvg-id="Paramount.br" tvg-name="paramount network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/263px-Paramount_Network.svg.png" group-title="CANAIS |FILMES E SERIES",paramount network HD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/375
+
+#EXTINF:-1 tvg-id="Paramount.br" tvg-name="paramount network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/263px-Paramount_Network.svg.png" group-title="CANAIS |FILMES E SERIES",paramount network SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/375
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/320px-SpaceLogo.svg.png" group-title="CANAIS |FILMES E SERIES",SPACE FHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/448
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/320px-SpaceLogo.svg.png" group-title="CANAIS |FILMES E SERIES",SPACE HD
+http://195.181.163.144:14730
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/320px-SpaceLogo.svg.png" group-title="CANAIS |FILMES E SERIES",SPACE SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/395
+
+#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SERIES",STAR CHANNEL FHD
+http://45.58.126.146:14329/starchannel
+
+#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SERIES",STAR CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/282
+
+#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SERIES",STAR CHANNEL SD
+http://45.58.126.146:14329/
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png" group-title="CANAIS |FILMES E SERIES",STUDIO UNIVERSAL FHD
+http://45.58.126.146:14332
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png" group-title="CANAIS |FILMES E SERIES",STUDIO UNIVERSAL HD
+http://45.58.126.146:14332/Studiouniversal
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png" group-title="CANAIS |FILMES E SERIES",STUDIO UNIVERSAL SD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/489
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/640px-SYFY.svg.png" group-title="CANAIS |FILMES E SERIES",SYFY FHD
+http://45.58.126.146:14335
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/640px-SYFY.svg.png" group-title="CANAIS |FILMES E SERIES",SYFY HD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/781
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/640px-SYFY.svg.png" group-title="CANAIS |FILMES E SERIES",SYFY SD
+http://45.58.126.146:14335/syfy
+
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS |FILMES E SERIES",TCM FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/402
+
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS |FILMES E SERIES",TCM HD
+http://mn.appserv19.xyz:2095/live/Xplus-1-Oqjoyc3tlZ/ioOTQ8atYw/292.m3u8
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",TNT FHD
+http://45.58.126.146:14341/tnt
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",TNT HD
+http://45.58.126.146:14341
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",TNT SD
+http://45.58.126.146:14342
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SERIES",TNT SERIES FHD
+http://turoisherego.xyz:2095/Tourobox1-lives9556077276/7784489147/406
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SERIES",TNT SERIES HD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/406
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SERIES",TNT SERIES SD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/315
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" group-title="CANAIS |FILMES E SERIES",UNIVERSAL TV FHD
+http://51.83.238.223:16883
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" group-title="CANAIS |FILMES E SERIES",UNIVERSAL TV HD
+http://45.58.126.146:14348/universal
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" group-title="CANAIS |FILMES E SERIES",UNIVERSAL TV SD
+http://45.58.126.146:14348
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SERIES",WARNER CHANNEL FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/422
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SERIES",WARNER CHANNEL HD
+http://45.58.126.146:14351/
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SERIES",WARNER CHANNEL SD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/320
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",ANIMAL PLANET FHD
+http://testo.app-host11.xyz:2095/Tourobox2-YD3zR1LQjP/vn37w5h25L/302
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/302
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",ANIMAL PLANET SD
+http://199.127.60.83:16192
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
+http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/521
+
+#EXTINF:-1 tvg-id=".Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/319
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/318
+
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/300px-Discovery_H%26H_Logo_2022.webp.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY H&H FHD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/1021
+
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/300px-Discovery_H%26H_Logo_2022.webp.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY H&H HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/320
+
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/300px-Discovery_H%26H_Logo_2022.webp.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY H&H SD
+http://45.58.126.146:14255/
+
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/216px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY ID FHD
+http://45.58.126.146:14258/
+
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/216px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY ID HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/369
+
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/375px-Science_Channel_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",Discovery Science FHD
+http://45.58.126.146:14264/
+
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/375px-Science_Channel_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",Discovery Science HD
+http://45.58.126.146:14261
+
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/375px-Science_Channel_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",Discovery Science SD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/321
+
+#EXTINF:-1 tvg-id="Discoverytheaterhd.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY THEATER FHD
+http://turoisherego.xyz:2095/Tourobox1-lives9556077276/7784489147/322
+
+#EXTINF:-1 tvg-id="Discoverytheaterhd.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY THEATER HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/322
+
+#EXTINF:-1 tvg-id="Discoverytheaterhd.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY THEATER SD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/322
+
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY TURBO FHD
+http://45.58.126.146:14267/
+
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY TURBO HD
+http://45.58.126.146:14267
+
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY TURBO SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/324
+
+#EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY WORLD HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/325
+
+#EXTINF:-1 tvg-id="H2.br" tvg-name="History 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/270px-History2Logo2019.png" group-title="CANAIS |DOCUMENTÁRIOS",History 2 FHD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/350
+
+#EXTINF:-1 tvg-id="H2.br" tvg-name="History 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/270px-History2Logo2019.png" group-title="CANAIS |DOCUMENTÁRIOS",History 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/815
+
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/320px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",HGTV HD
+http://15.235.10.31:14413
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",HISTORY FHD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/82
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",HISTORY HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/351
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",HISTORY SD
+http://mn.appserv19.xyz:2095/live/Xplus-1-Oqjoyc3tlZ/ioOTQ8atYw/82.m3u8
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS |DOCUMENTÁRIOS",National Geographic FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/373
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS |DOCUMENTÁRIOS",National Geographic HD
+http://84.17.44.179:14635/natgeo
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS |DOCUMENTÁRIOS",National Geographic SD
+http://45.58.126.146:14287
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/320px-TLC_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",TLC FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/403
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/320px-TLC_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",TLC HD
+http://45.58.126.146:14270/tlc
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/320px-TLC_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",TLC SD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/92
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/480px-Arte_1_logo.svg.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
+http://mn.appserv19.xyz:2095/Xplus-1-6n3hWT5VEa/kUoafVHmKP/232
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/480px-Arte_1_logo.svg.png" group-title="CANAIS | VARIEDADES",ARTE 1 SD
+http://mn.appserv19.xyz:2095/Xplus-1-6n3hWT5VEa/kUoafVHmKP/231
+
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/640px-Logo_of_Bis.svg.png" group-title="CANAIS | VARIEDADES",BIS FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/452
+
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/640px-Logo_of_Bis.svg.png" group-title="CANAIS | VARIEDADES",BIS HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/420
+
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/640px-Logo_of_Bis.svg.png" group-title="CANAIS | VARIEDADES",BIS SD
+http://199.127.60.83:14716
+
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/98
+
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
+http://212.102.60.39:2200/BRX/Comedy_Central_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CurtaRelevante.png/375px-CurtaRelevante.png" group-title="CANAIS | VARIEDADES",CURTA! FHD
+http://7go.xyz:8080/quinho93018/quin3571/22318
+
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CurtaRelevante.png/375px-CurtaRelevante.png" group-title="CANAIS | VARIEDADES",CURTA! HD
+http://cdnrede.com:80/1tpx402m/7FnPjJF/5267
+
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/2020330/rs_112x112-200430123021-112X112-e-logo.png" group-title="CANAIS | VARIEDADES",E! HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/326
+
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/2020330/rs_112x112-200430123021-112X112-e-logo.png" group-title="CANAIS | VARIEDADES",E! SD
+http://cdnrede.com:80/1tpx402m/7FnPjJF/232870
+
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
+http://7go.xyz:8080/quinho93018/quin3571/116710
+
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
+http://meumd.com:80/beneditojp/goiptv2021/109472
+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/300px-GNT_logo-roxo.svg.png" group-title="CANAIS | VARIEDADES",GNT HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/349
+
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_MTV_Brasil_2012.svg/1200px-Logo_MTV_Brasil_2012.svg.png" group-title="CANAIS | VARIEDADES",MTV HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/453
+
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_MTV_Brasil_2012.svg/1200px-Logo_MTV_Brasil_2012.svg.png" group-title="CANAIS | VARIEDADES",MTV HD
+http://187.95.95.243:80/mtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/1200px-Multishow_logo_red_2012.svg.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/372
+
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="CANAIS | VARIEDADES",TRU TV HD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/745
+
+#EXTINF:-1 tvg-id="Primeboxbrasil.br" tvg-name="PRIME BOX BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/PrimeBoxBrazil2019.png/345px-PrimeBoxBrazil2019.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRASIL HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/386
+
+#EXTINF:-1 tvg-id="Musictop.br" tvg-name="MUSIC TOP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="CANAIS | VARIEDADES",MUSIC TOP HD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Musictop.br" tvg-name="MUSIC TOP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="CANAIS | VARIEDADES",MUSIC TOP SD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Saborarte.br" tvg-name="SABOR & ARTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE HD AT
+http://milka99.xyz:80/703811133683/073445946502/40636
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/320px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS | VARIEDADES",VIVA FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/420
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/320px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS | VARIEDADES",VIVA HD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/420
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/320px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS | VARIEDADES",VIVA SD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/421
+
+#EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/TNT_novelas.jpg" group-title="CANAIS | VARIEDADES",TNT NOVELAS HD
+http://45.58.126.146:14338
+
+#EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT NOVELAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/TNT_novelas.jpg" group-title="CANAIS | VARIEDADES",TNT NOVELAS SD
+http://45.58.126.146:14338/tbs
+
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/619px-FashionTV2019novo.png" group-title="CANAIS | VARIEDADES",FASHION TV HD
+https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dogtv.br" tvg-name="DOG TV HD" tvg-logo="https://imgur.com/sfpVDnt.png" group-title="CANAIS | VARIEDADES",DOG TV HD
+http://mn.appserv19.xyz:2095/live/Xplus-1-Oqjoyc3tlZ/ioOTQ8atYw/879.m3u8
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="CANAIS | HBO",HBO HD PLUS
+http://212.102.60.39:2200/BRX/HBO1_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="CANAIS | HBO",HBO FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/355
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CANAIS | HBO",HBO 2 FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/353
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CANAIS | HBO",HBO 2 HD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/354
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CANAIS | HBO",HBO 2 SD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/353
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS | HBO",HBO PLUS FHD
+http://212.102.60.39:2200/BRX/HBO_Plus_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS | HBO",HBO PLUS HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/361
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS | HBO",HBO PLUS SD
+http://212.102.60.39:2200/BRX/HBO_Plus_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS | HBO",HBO FAMILY FHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/357
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS | HBO",HBO FAMILY HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/357
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS | HBO",HBO FAMILY SD
+http://212.102.60.39:2200/BRX/HBO_Family_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/936px-HBO_Signature.svg.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/359
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/936px-HBO_Signature.svg.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
+http://212.102.60.39:2200/BRX/HBO_Signature_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/936px-HBO_Signature.svg.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
+http://212.102.60.39:2200/BRX/HBO_Signature_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="maxprime.br" tvg-name="HBO XTREME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1024px-HBO_Xtreme.svg.png" group-title="CANAIS | HBO",HBO XTREME FHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/364
+
+#EXTINF:-1 tvg-id="maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1024px-HBO_Xtreme.svg.png" group-title="CANAIS | HBO",HBO XTREME HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/363
+
+#EXTINF:-1 tvg-id="maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1024px-HBO_Xtreme.svg.png" group-title="CANAIS | HBO",HBO XTREME SD
+http://212.102.60.39:2200/BRX/HBO_Xtreme_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="CANAIS | HBO",HBO POP FHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/365
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="CANAIS | HBO",HBO POP HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/365
+
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="CANAIS | HBO",HBO POP SD
+http://212.102.60.39:2200/BRX/HBO_POP_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1024px-HBO_Mundi.svg.png" group-title="CANAIS | HBO",HBO MUNDI FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/367
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1024px-HBO_Mundi.svg.png" group-title="CANAIS | HBO",HBO MUNDI HD
+http://212.102.60.39:2200/BRX/HBO_Mundi_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1024px-HBO_Mundi.svg.png" group-title="CANAIS | HBO",HBO MUNDI SD
+http://212.102.60.39:2200/BRX/HBO_Mundi_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/408
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/407
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/407
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Cult_2019.png/800px-Telecine_Cult_2019.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/409
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Telecine_Fun_%282019%29.svg/375px-Telecine_Fun_%282019%29.svg.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/411
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/413
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/414
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/414
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/800px-Telecine_Premium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/415
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/800px-Telecine_Premium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/416
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/800px-Telecine_Premium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/415
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Telecine_Touch_%282019%29.svg/1024px-Telecine_Touch_%282019%29.svg.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/417
+
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/320px-BandSports_logo.svg.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/121
+
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/320px-BandSports_logo.svg.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
+http://212.102.60.39:2200/BRX/Band_Sports_UHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/320px-BandSports_logo.svg.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
+http://cdnrede.com:80/live/1tpx402m/7FnPjJF/59870.m3u8
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1596px-Canal-combate-logo.png" group-title="CANAIS | ESPORTES",COMBATE FHD
+http://testo.app-host11.xyz:2095/Tourobox1-V4Tmaoanqe/hkAyLJqeOb/282
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1596px-Canal-combate-logo.png" group-title="CANAIS | ESPORTES",COMBATE HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/283
+
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/384px-Fish_TV_logo_2022.svg.png" group-title="CANAIS | ESPORTES",FISH TV HD
+http://turoisherego.xyz:2095/Tourobox1-lives9556077276/7784489147/337
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/315px-2015_Fox_sports_logo.svg.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/342
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/315px-2015_Fox_sports_logo.svg.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/139
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/315px-2015_Fox_sports_logo.svg.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/140
+
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/320px-Canal_Off_logo.svg.png" group-title="CANAIS | ESPORTES",OFF HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/546
+
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD" tvg-logo="https://woohoo.com.br/wp-content/uploads/2021/01/logo-woohoo-10.png" group-title="CANAIS | ESPORTES",WOOHOO FHD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/117
+
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://woohoo.com.br/wp-content/uploads/2021/01/logo-woohoo-10.png" group-title="CANAIS | ESPORTES",WOOHOO HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/424
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="RED BULL TV FHD" tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="CANAIS | ESPORTES",RED BULL TV FHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="Redbull.br" tvg-name="RED BULL TV HD" tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="CANAIS | ESPORTES",RED BULL TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS |SPORTV",SPORTV FHD
+http://212.102.60.39:2200/BRX/SporTV_1_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS |SPORTV",SPORTV HD
+http://212.102.60.39:2200/BRX/SporTV_1_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/320px-SporTV_2_2017_logo.svg.png" group-title="CANAIS |SPORTV",SPORTV 2 FHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/533
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/320px-SporTV_2_2017_logo.svg.png" group-title="CANAIS |SPORTV",SPORTV 2 HD
+http://212.102.60.39:2200/BRX/SporTV_2_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="CANAIS |SPORTV",SPORTV 3 FHD
+http://212.102.60.39:2200/BRX/SporTV_3_UHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="CANAIS |SPORTV",SPORTV 3 HD
+http://212.102.60.39:2200/BRX/SporTV_3_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES 4K
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/531
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/483
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 2 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/532
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/377

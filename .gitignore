@@ -723,3 +723,21 @@ http://45.166.68.242:8080/live/anc.julianamesquita/102030/41
 
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD
 http://playfacil.net:80/76399979/27368967/61833
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/379
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/42
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/380
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD
+http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/479
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/381
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/44

@@ -741,3 +741,12 @@ http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/381
 
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD
 http://45.166.68.242:8080/live/anc.julianamesquita/102030/44
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/382
+
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 8 FHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/383
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 9 FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/384

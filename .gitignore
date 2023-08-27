@@ -712,6 +712,12 @@ http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/531
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD
 http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/483
 
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD 1
+https://server101.shop/premiere/tracks-v1a1/mono.m3u8?remote=187.19.194.169&token=d083c9045ac21f698abd8605e75bbfd60f304903-411160a4b706c1a6034587b4d9e6decc-1693177533-1693170333
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD 2
+https://server101.shop/premiere-op2/tracks-v1a1/mono.m3u8?remote=187.19.194.169&token=ce33cc878056ab54adfabefc119ffd4b8917c444-d6734b75225f972af3f0feafd36cacfa-1693177559-1693170359
+
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 2 4K
 http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/532
 

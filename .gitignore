@@ -9,9 +9,6 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1444994
 #EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV RO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV RO HD
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w531001252.m3u8
 
-#EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV PARANA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV PARANA HD
-https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w591939020.m3u8
-
 #EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV SÃO LUIS MA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV SÃO LUIS MA SD
 https://stmv1.srvif.com/tvsaoluis/tvsaoluis/chunklist_w900111013.m3u8
 

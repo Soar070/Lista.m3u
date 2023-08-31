@@ -149,3 +149,12 @@ http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/392
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT 4K
 http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/510
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD RJ UHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/633
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD RJ HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/527
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD SP HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/999

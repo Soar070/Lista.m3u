@@ -158,3 +158,163 @@ http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/527
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD SP HD
 http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/999
+
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="A&E FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SERIES",A&E FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/458
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SERIES",A&E HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/226
+
+#EXTINF:-1 tvg-id="A&e.br" tvg-name="A&E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SERIES",A&E SD
+http://mn.appserv19.xyz:2095/Xplus-1-6n3hWT5VEa/kUoafVHmKP/226
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",AMC FHD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/228
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",AMC HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/229
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",AMC SD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/229
+
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" group-title="CANAIS |FILMES E SERIES",AXN FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31271
+
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" group-title="CANAIS |FILMES E SERIES",AXN HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/304
+
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS |FILMES E SERIES",CANAL SONY FHD
+http://199.127.60.83:16063
+
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS |FILMES E SERIES",CANAL SONY HD
+http://45.58.126.146:14303/
+
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS |FILMES E SERIES",CANAL SONY SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/393
+
+#EXTINF:-1 tvg-id="CinecanalBrazil.br" tvg-name="CINE CANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/300px-CinecanalLA.png" group-title="CANAIS |FILMES E SERIES",CINE CANAL HD
+http://45.58.126.146:14326
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" group-title="CANAIS |FILMES E SERIES",CINEMAX FHD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/312
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" group-title="CANAIS |FILMES E SERIES",CINEMAX HD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/311
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" group-title="CANAIS |FILMES E SERIES",CINEMAX SD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/240
+
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM & ARTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="CANAIS |FILMES E SERIES",FILM & ARTS HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/492
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/320px-FX_International_logo.svg.png" group-title="CANAIS |FILMES E SERIES",FX FHD
+http://45.58.126.146:14311/
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/320px-FX_International_logo.svg.png" group-title="CANAIS |FILMES E SERIES",FX HD
+http://45.58.126.146:14311/fx
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/320px-FX_International_logo.svg.png" group-title="CANAIS |FILMES E SERIES",FX SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/484
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/240px-Lifetime_logo17.svg.png" group-title="CANAIS |FILMES E SERIES",LIFETIME HD
+http://45.58.126.146:14314
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/240px-Lifetime_logo17.svg.png" group-title="CANAIS |FILMES E SERIES",LIFETIME SD
+http://meumd.com:80/beneditojp/goiptv2021/109463
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SERIES",MEGAPIX FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/491
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SERIES",MEGAPIX HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/270
+
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SERIES",MEGAPIX SD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/998
+
+#EXTINF:-1 tvg-id="Paramount.br" tvg-name="paramount network FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/263px-Paramount_Network.svg.png" group-title="CANAIS |FILMES E SERIES",paramount network FHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/541
+
+#EXTINF:-1 tvg-id="Paramount.br" tvg-name="paramount network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/263px-Paramount_Network.svg.png" group-title="CANAIS |FILMES E SERIES",paramount network HD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/375
+
+#EXTINF:-1 tvg-id="Paramount.br" tvg-name="paramount network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/263px-Paramount_Network.svg.png" group-title="CANAIS |FILMES E SERIES",paramount network SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/375
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/320px-SpaceLogo.svg.png" group-title="CANAIS |FILMES E SERIES",SPACE FHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/448
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/320px-SpaceLogo.svg.png" group-title="CANAIS |FILMES E SERIES",SPACE HD
+http://195.181.163.144:14730
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/320px-SpaceLogo.svg.png" group-title="CANAIS |FILMES E SERIES",SPACE SD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/395
+
+#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SERIES",STAR CHANNEL FHD
+http://45.58.126.146:14329/starchannel
+
+#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SERIES",STAR CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/282
+
+#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SERIES",STAR CHANNEL SD
+http://45.58.126.146:14329/
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png" group-title="CANAIS |FILMES E SERIES",STUDIO UNIVERSAL FHD
+http://45.58.126.146:14332
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png" group-title="CANAIS |FILMES E SERIES",STUDIO UNIVERSAL HD
+http://45.58.126.146:14332/Studiouniversal
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png" group-title="CANAIS |FILMES E SERIES",STUDIO UNIVERSAL SD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/489
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/640px-SYFY.svg.png" group-title="CANAIS |FILMES E SERIES",SYFY FHD
+http://45.58.126.146:14335
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/640px-SYFY.svg.png" group-title="CANAIS |FILMES E SERIES",SYFY HD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/781
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/640px-SYFY.svg.png" group-title="CANAIS |FILMES E SERIES",SYFY SD
+http://45.58.126.146:14335/syfy
+
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS |FILMES E SERIES",TCM FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/402
+
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS |FILMES E SERIES",TCM HD
+http://mn.appserv19.xyz:2095/live/Xplus-1-Oqjoyc3tlZ/ioOTQ8atYw/292.m3u8
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",TNT FHD
+http://45.58.126.146:14341/tnt
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",TNT HD
+http://45.58.126.146:14341
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SERIES",TNT SD
+http://45.58.126.146:14342
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SERIES",TNT SERIES FHD
+http://turoisherego.xyz:2095/Tourobox1-lives9556077276/7784489147/406
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SERIES",TNT SERIES HD
+http://testo.app-host11.xyz:2095/Touroubox2-QRS6772570912/2860815164/406
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SERIES",TNT SERIES SD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/315
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" group-title="CANAIS |FILMES E SERIES",UNIVERSAL TV FHD
+http://51.83.238.223:16883
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" group-title="CANAIS |FILMES E SERIES",UNIVERSAL TV HD
+http://45.58.126.146:14348/universal
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" group-title="CANAIS |FILMES E SERIES",UNIVERSAL TV SD
+http://45.58.126.146:14348
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SERIES",WARNER CHANNEL FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/422
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SERIES",WARNER CHANNEL HD
+http://45.58.126.146:14351/
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SERIES",WARNER CHANNEL SD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/320

@@ -138,8 +138,8 @@ http://168.205.87.198:8555/live/antony/1234/19.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT SP UHD
 http://cdnrede.com:80/1tpx402m/7FnPjJF/4971
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT HD
-http://xcui.vitvabc.xyz:8880/287994014865/287994014865/16749
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP INTERIOR HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT SP INTERIOR HD
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT SP FHD
 http://testo.app-host11.xyz:2095/Tourobox1-4LFuYHgELc/UqjOJYPl2q/510

@@ -83,3 +83,9 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w6507399
 
 #EXTINF:-1 tvg-id="" tvg-name="TV PADRE CÍCERO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLxv7TSANqESn8pnZtvd0RyxRtxMUvlTRrA&usqp.jpg" group-title="CANAIS | ABERTOS",TV PADRE CÍCERO HD
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CULTURA.br" tvg-name="CULTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/300px-Cultura_logo_2013.svg.png" group-title="CANAIS | ABERTOS",CULTURA HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31083
+
+#EXTINF:-1 tvg-id="REDEGOSPEL.br" tvg-name="REDE GOSPEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/353px-LGT_Rede_Gospel.png" group-title="CANAIS | ABERTOS",REDE GOSPEL HD
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8

@@ -664,3 +664,33 @@ http://testo.app-host11.xyz:2095/Tourobox1-lives5768996171/8619119408/383
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 9 FHD
 http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/384
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="CANAIS | ESPN",ESPN EXTRA FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/332
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="CANAIS | ESPN",ESPN EXTRA HD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/332
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN BRASIL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="CANAIS | ESPN",ESPN BRASIL FHD
+http://mn.appserv19.xyz:2095/Xplus-1-OKxEYWkgbv/ocHPNDsd3f/131
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="CANAIS | ESPN",ESPN BRASIL HD
+http://185.177.125.182:2095/Jvyct67hgtyhhfdDDDF4477/Xpluxxx3333ggghy5t57/1
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="CANAIS | ESPN",ESPN 2 FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/330
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="CANAIS | ESPN",ESPN 2 HD
+http://cdnrede.com:80/1tpx402m/7FnPjJF/5030
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="CANAIS | ESPN",ESPN 3 FHD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/329
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="CANAIS | ESPN",ESPN 3 HD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/328
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="CANAIS | ESPN",ESPN 4 FHD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/344
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="CANAIS | ESPN",ESPN 4 HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/344

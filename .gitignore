@@ -1,10 +1,10 @@
 sim#EXTM3U url-tvg=''
 
 #EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31072
+https://bc4d.short.gy/lockedredetv
 
 #EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV! FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! FULL HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31071
+https://bc4d.short.gy/pdfredetv
 
 #EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV RO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV RO HD
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w531001252.m3u8
@@ -85,7 +85,7 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w6507399
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CULTURA.br" tvg-name="TV CULTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/300px-Cultura_logo_2013.svg.png" group-title="CANAIS | ABERTOS",TV CULTURA HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31083
+https://bc4d.short.gy/23.09.14tvcurtura
 
 #EXTINF:-1 tvg-id="REDEGOSPEL.br" tvg-name="REDE GOSPEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/353px-LGT_Rede_Gospel.png" group-title="CANAIS | ABERTOS",REDE GOSPEL HD
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8

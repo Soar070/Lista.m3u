@@ -89,3 +89,33 @@ https://bc4d.short.gy/23.09.14tvcurtura
 
 #EXTINF:-1 tvg-id="REDEGOSPEL.br" tvg-name="REDE GOSPEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/353px-LGT_Rede_Gospel.png" group-title="CANAIS | ABERTOS",REDE GOSPEL HD
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO RJ HD
+http://testo.app-host11.xyz:2095/Tourobox1-4LFuYHgELc/UqjOJYPl2q/508
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO RJ HD
+http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/508
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO RJ HD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/508
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO NORDESTE HD
+http://testo.app-host11.xyz:2095/Tourobox2-j6lrvvG1tt/KSfffFwxHu/291
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO NORDESTE HD
+http://cdnrede.com:80/1tpx402m/7FnPjJF/62745
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO SP HD
+http://cdn.teambr.live:80/ftulum/meeems/76697
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TEM BAURU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO TEM BAURU HD
+http://cdnrede.com:80/1tpx402m/7FnPjJF/173959
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO TV BAHIA HD
+https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO HD
+http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1679798964_4d4afd922002fb69414191e7c579331fccfe1469
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO HD
+http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1680655882_11d437a9c9c930272e1bf876f7709c8bdb726eb5

@@ -420,3 +420,78 @@ http://45.58.126.146:14270/tlc
 
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/320px-TLC_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",TLC SD
 http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/92
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/480px-Arte_1_logo.svg.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
+http://mn.appserv19.xyz:2095/Xplus-1-6n3hWT5VEa/kUoafVHmKP/232
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/480px-Arte_1_logo.svg.png" group-title="CANAIS | VARIEDADES",ARTE 1 SD
+http://mn.appserv19.xyz:2095/Xplus-1-6n3hWT5VEa/kUoafVHmKP/231
+
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/640px-Logo_of_Bis.svg.png" group-title="CANAIS | VARIEDADES",BIS FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/452
+
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/640px-Logo_of_Bis.svg.png" group-title="CANAIS | VARIEDADES",BIS HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/420
+
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/640px-Logo_of_Bis.svg.png" group-title="CANAIS | VARIEDADES",BIS SD
+http://199.127.60.83:14716
+
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/98
+
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CurtaRelevante.png/375px-CurtaRelevante.png" group-title="CANAIS | VARIEDADES",CURTA! HD
+http://cdnrede.com:80/1tpx402m/7FnPjJF/5267
+
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/2020330/rs_112x112-200430123021-112X112-e-logo.png" group-title="CANAIS | VARIEDADES",E! HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/326
+
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/2020330/rs_112x112-200430123021-112X112-e-logo.png" group-title="CANAIS | VARIEDADES",E! SD
+http://cdnrede.com:80/1tpx402m/7FnPjJF/232870
+
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
+http://meumd.com:80/beneditojp/goiptv2021/109472
+
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/300px-GNT_logo-roxo.svg.png" group-title="CANAIS | VARIEDADES",GNT HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/349
+
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_MTV_Brasil_2012.svg/1200px-Logo_MTV_Brasil_2012.svg.png" group-title="CANAIS | VARIEDADES",MTV HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/453
+
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_MTV_Brasil_2012.svg/1200px-Logo_MTV_Brasil_2012.svg.png" group-title="CANAIS | VARIEDADES",MTV HD
+http://187.95.95.243:80/mtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/1200px-Multishow_logo_red_2012.svg.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/372
+
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="CANAIS | VARIEDADES",TRU TV HD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/745
+
+#EXTINF:-1 tvg-id="Primeboxbrasil.br" tvg-name="PRIME BOX BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/PrimeBoxBrazil2019.png/345px-PrimeBoxBrazil2019.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRASIL HD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/386
+
+#EXTINF:-1 tvg-id="Musictop.br" tvg-name="MUSIC TOP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="CANAIS | VARIEDADES",MUSIC TOP HD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Musictop.br" tvg-name="MUSIC TOP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="CANAIS | VARIEDADES",MUSIC TOP SD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/320px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS | VARIEDADES",VIVA FHD
+http://testo.app-host11.xyz:2095/Tourobox1-y0HL2A8oW3/9hSrxqDyJi/420
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/320px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS | VARIEDADES",VIVA HD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/420
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/320px-Canal_Viva_2018_wordmark.svg.png" group-title="CANAIS | VARIEDADES",VIVA SD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/421
+
+#EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/TNT_novelas.jpg" group-title="CANAIS | VARIEDADES",TNT NOVELAS HD
+http://45.58.126.146:14338
+
+#EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT NOVELAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/TNT_novelas.jpg" group-title="CANAIS | VARIEDADES",TNT NOVELAS SD
+http://45.58.126.146:14338/tbs
+
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/619px-FashionTV2019novo.png" group-title="CANAIS | VARIEDADES",FASHION TV HD
+https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dogtv.br" tvg-name="DOG TV HD" tvg-logo="https://imgur.com/sfpVDnt.png" group-title="CANAIS | VARIEDADES",DOG TV HD
+http://mn.appserv19.xyz:2095/live/Xplus-1-Oqjoyc3tlZ/ioOTQ8atYw/879.m3u8

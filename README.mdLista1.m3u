@@ -1,1 +1,9 @@
 sim#EXTM3U url-tvg=''
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
+https://server101.shop/premiere-op2/tracks-v1a1/mono.m3u8?remote=187.19.194.169&token=210ec1175c4f04b463c02fc920d5e73caf787edd-d75c11951e92a4fe26ec07d27030da07-1695333115-1695325915
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
+https://server101.shop/premiere-op2/tracks-v1a1/mono.m3u8?remote=187.19.194.169&token=1f29f2489e0c93da3e84177dbb1173dcad26fbd7-b2a736eab864a1e3faf0853b76365faf-1695333109-1695325909
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD

@@ -111,8 +111,8 @@ http://cdn.teambr.live:80/ftulum/meeems/76697
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TEM BAURU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO TEM BAURU HD
 http://cdnrede.com:80/1tpx402m/7FnPjJF/173959
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO TV BAHIA HD
-https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO SP HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO SP HD¹
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16730
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO HD
 http://fadder.eletrinho.shop:2095/live/globo/chunks.m3u8?token=1679798964_4d4afd922002fb69414191e7c579331fccfe1469

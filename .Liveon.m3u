@@ -105,20 +105,14 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16730
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO HD sd
 http://joao-1-us.mainbkonline.shop:80/034921600700/137049203289/366
 
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO sd fortaleza
-http://joao-1-us.mainbkonline.shop:80/034921600700/137049203289/578
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RBS PORTO ALEGRE HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO RBS PORTO ALEGRE HD¹
+http://milka99.xyz:80/703811133683/073445946502/33941
 
-#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND UHD
-http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/306
-
-#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND SP HD
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND SP FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND SP FHD
 http://mn.appserv19.xyz:2095/Xplus-1-6n3hWT5VEa/kUoafVHmKP/485
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="BAND SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND SP HD
 http://208.115.225.174:14420
-
-#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND RJ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND RJ HD
-http://45.58.126.146:14148
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="BAND TV Vale do Uruará PA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND TV Vale do Uruará PA HD
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w609144356.m3u8
@@ -129,23 +123,14 @@ https://cdn.jmvstream.com/w/AVJ-14849/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="Band.br" tvg-name="BAND TV Band Minas HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND TV Band Minas HD
 http://168.205.87.198:8555/live/antony/1234/19.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT SP UHD
-http://cdnrede.com:80/1tpx402m/7FnPjJF/4971
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT RJ HD
+https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP INTERIOR HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT SP INTERIOR HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT SP FHD
-http://testo.app-host11.xyz:2095/Tourobox1-4LFuYHgELc/UqjOJYPl2q/510
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT UHD
-http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/392
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT 4K
-http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/510
-
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD RJ UHD
-http://testo.app-host11.xyz:2095/Touroubox3-QR-PIPS1518806592/4197397407/633
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD SP HD
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD RJ HD
 http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/527

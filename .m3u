@@ -1,5 +1,17 @@
 sim#EXTM3U url-tvg=''
 
+#EXTINF:-1 tvg-id="" tvg-name="HBO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png" group-title="CANAIS | HBO",HBO 4K
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/251
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png" group-title="CANAIS | HBO",HBO HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/255
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HDR+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png" group-title="CANAIS | HBO",HBO HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1000
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO DUAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png" group-title="CANAIS | HBO",HBO DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/793
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="CANAIS | SPORTV",SPORTV HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/178
 

@@ -1,9 +1,9 @@
 sim#EXTM3U url-tvg=''
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="https://i.im.ge/2023/12/09/EDGQcY.Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY 2
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 2
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/755
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY" tvg-logo="https://i.im.ge/2023/12/09/EDGY8M.Skytvnew1.png" group-title="CANAIS | CINE SKY",CINE SKY
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/757
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",A&E 4K

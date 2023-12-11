@@ -76,13 +76,16 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w6507399
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CULTURA.br" tvg-name="TV CULTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/300px-Cultura_logo_2013.svg.png" group-title="CANAIS | ABERTOS",TV CULTURA HD
-https://bc4d.short.gy/23.09.14tvcurtura
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/547 
 
 #EXTINF:-1 tvg-id="REDEGOSPEL.br" tvg-name="REDE GOSPEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/353px-LGT_Rede_Gospel.png" group-title="CANAIS | ABERTOS",REDE GOSPEL HD
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tvdiario.br" tvg-name="TV DIÁRIO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/320px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS | ABERTOS",TV DIÁRIO HD
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="tvdiario.br" tvg-name="TV DIÁRIO HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/320px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS | ABERTOS",TV DIÁRIO HD¹
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/548  
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",A&E 4K
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/225

@@ -1,5 +1,47 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",TV TEM SP HD
+http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM SP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",TV TEM SP SD
+http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO SP HD
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO SP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",GLOBO SP SD
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND SP 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND SP 4K
+http://mn.appserv19.xyz:2095/Xplus-1-6n3hWT5VEa/kUoafVHmKP/485
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND SP HD
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND SP SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND SP SD
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND TV Vale do Uruará PA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND TV Vale do Uruará PA HD
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w609144356.m3u8
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND RBATV PA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND RBATV PA HD
+https://cdn.jmvstream.com/w/AVJ-14849/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="BAND TV Band Minas HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png" group-title="CANAIS |BAND",BAND TV Band Minas HD
+http://168.205.87.198:8555/live/antony/1234/19.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP INTERIOR HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS |SBT",SBT SP INTERIOR HD
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD SP HD
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD RJ HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/527
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD SP HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/999
+
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",A&E 4K
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/225
 

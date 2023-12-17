@@ -1,5 +1,98 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV! RO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! RO HD
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV! PI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! PI HD
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklistw157393531.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV! SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! SD
+https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="CANAIS | ABERTOS",TV GAZETA HD
+https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w477325099.m3u8
+
+#EXTINF:-1 tvg-id="PRIMERTV.br" tvg-name="PRIMER TV HD" tvg-logo="http://primertv.com.br/img/logo.png" group-title="CANAIS | ABERTOS",PRIMER TV HD
+http://177.74.174.57:8080/hls/primertv.m3u8
+
+#EXTINF:-1 tvg-id="AGROBRASILTV.br" tvg-name="AGRO BRASIL TV HD" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV HD
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="AGROBRASILTV.br" tvg-name="AGRO BRASIL TV SD" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="CANAIS | ABERTOS",AGRO BRASIL TV SD
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/200px-Canal_Brasil_logo.svg.png" group-title="CANAIS | ABERTOS",CANAL BRASIL FHD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/236
+
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/200px-Canal_Brasil_logo.svg.png" group-title="CANAIS | ABERTOS",CANAL BRASIL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/237
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BOI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/300px-Logo_Canal_do_Boi_-_PNG.png" group-title="CANAIS | ABERTOS",CANAL BOI HD
+http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/486
+
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="CANAIS | ABERTOS",FUTURA HD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/243
+
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil-768x629.png" group-title="CANAIS | ABERTOS",REDE BRASIL HD
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
+
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil-768x629.png" group-title="CANAIS | ABERTOS",REDE BRASIL SD
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1570px-TV_Brasil_logo_2019.svg.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
+http://168.205.87.198:8555/live/1431/123456/134.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS | ABERTOS",TV CAMARA 1 HD
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS | ABERTOS",TV CAMARA 2 HD
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV MAX HD" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="CANAIS | ABERTOS",TV MAX HD
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV MAX SD" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="CANAIS | ABERTOS",TV MAX SD
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA HD" tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QO8MmZq-K5Gk0pBnkkRPvlipSQlbbHuOC9muJAgElQMQ.png" group-title="CANAIS | ABERTOS",TERRA VIVA HD
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA SD" tvg-logo="http://ddsw.xyz:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QO8MmZq-K5Gk0pBnkkRPvlipSQlbbHuOC9muJAgElQMQ.png" group-title="CANAIS | ABERTOS",TERRA VIVA SD
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w1040118666.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CENTRAL TV HD" tvg-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png/v1/fill/w_476,h_130,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_CentralTV_impress%C3%A3o_-_horizontal_pn.png" group-title="CANAIS | ABERTOS",CENTRAL TV HD
+https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w755764702.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vivax TV HD" tvg-logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_393,h_317,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png" group-title="CANAIS | ABERTOS",Vivax TV HD
+https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ISTV HD" tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="CANAIS | ABERTOS",ISTV HD
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w1249959889.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV PADRE CÍCERO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLxv7TSANqESn8pnZtvd0RyxRtxMUvlTRrA&usqp.jpg" group-title="CANAIS | ABERTOS",TV PADRE CÍCERO HD
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w65073994.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV PADRE CÍCERO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLxv7TSANqESn8pnZtvd0RyxRtxMUvlTRrA&usqp.jpg" group-title="CANAIS | ABERTOS",TV PADRE CÍCERO HD
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CULTURA.br" tvg-name="TV CULTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/300px-Cultura_logo_2013.svg.png" group-title="CANAIS | ABERTOS",TV CULTURA HD
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/547 
+
+#EXTINF:-1 tvg-id="REDEGOSPEL.br" tvg-name="REDE GOSPEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/353px-LGT_Rede_Gospel.png" group-title="CANAIS | ABERTOS",REDE GOSPEL HD
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="tvdiario.br" tvg-name="TV DIÁRIO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/320px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS | ABERTOS",TV DIÁRIO HD
+https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="tvdiario.br" tvg-name="TV DIÁRIO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/320px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS | ABERTOS",TV DIÁRIO HD
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/548  
+
+#EXTINF:-1 tvg-id="" tvg-name="YPÊ TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/71e98e53faf02f82e9d9746110c57041.webp" group-title="CANAIS | ABERTOS",YPÊ TV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="XTREME TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1bACuAJdKtr9BhC9RZZ5jiGeHAZk35NIp3w&usqp=png" group-title="CANAIS | ABERTOS",XTREME TV
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8?ManoTV
+
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="TV TEM SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS |GLOBO",TV TEM SP HD
 http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 

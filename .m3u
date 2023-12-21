@@ -1,3 +1,4 @@
+
 sim#EXTM3U url-tvg=''
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 2
@@ -102,6 +103,8 @@ http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/1016
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SporTV2_2021.png/799px-SporTV2_2021.png" group-title="CANAIS | SPORTV",SPORTV 2 4K
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/172
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/800px-Star%2B_logo.svg.png" group-title="CANAIS | ESPORTES ONLINE",STAR+ 1 HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/829
 
@@ -153,6 +156,33 @@ http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1162
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/cf3b35181888595.Y3JvcCw5OTIsNzc2LDE1NCwyMg.png" group-title="CANAIS | ESPORTES ONLINE",CAZÊ TV
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1149
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV+ HD PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyDDi_cfUf1b12rZKpkG2RHUk3cwISvgAilw&usqp=png" group-title="CANAIS | ESPORTES ONLINE",SPORT TV+ HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/166
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D8KPU_KArJrkF4fm00By5yVnT9reZekMYQ&usqp=CAU" group-title="CANAIS | ESPORTES ONLINE",SPORT TV 1 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/167
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD PT" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" group-title="CANAIS | ESPORTES ONLINE",SPORT TV 2 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/168
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD PT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png" group-title="CANAIS | ESPORTES ONLINE",SPORT TV 3 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/169
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD PT" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" group-title="CANAIS | ESPORTES ONLINE",SPORT TV 4 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/170
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSZD4MxjaymuNQaNLYbDjJ2vr8sjAYyxwZw&usqp=png" group-title="CANAIS | ESPORTES ONLINE",SPORT TV 5 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/171
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",A&E 4K
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/225

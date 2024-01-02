@@ -1,4 +1,3 @@
-
 sim#EXTM3U
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",A&E HD
@@ -19,7 +18,7 @@ http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/790
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" group-title="CANAIS |FILMES E SÉRIES",AXN 4K
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/233
 
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS |FILMES E SÉRIES",SONY CHANNEL HD
+#EXTINF:-1 tvg-id="CANALSONY" tvg-name="SONY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS |FILMES E SÉRIES",SONY CHANNEL HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/238
 
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" group-title="CANAIS |FILMES E SÉRIES",CINEMAX 4K

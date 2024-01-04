@@ -1,47 +1,40 @@
 sim#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 1
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/754
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Band_News_TV_2021.png/300px-Band_News_TV_2021.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/432
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 2
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/755
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Band_News_TV_2021.png/300px-Band_News_TV_2021.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/482
 
+#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="CNN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/300px-CNN_Brasil.svg.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/433
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 4
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1040
+#EXTINF:-1 tvg-id="CNNESPANHOL" tvg-name="CNN ESPANHOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/225px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/436
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 5
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1041
+#EXTINF:-1 tvg-id="CNNPORTUGAL" tvg-name="CNN PORTUGAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/300px-CNN_Portugal.svg.png" group-title="CANAIS | NOTÍCIAS",CNN PORTUGAL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/438
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 6
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1042
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1200px-Logotipo_da_GloboNews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/445
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 7
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1043
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1200px-Logotipo_da_GloboNews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/448
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 8
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1044
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/375px-NHK_World.svg.png" group-title="CANAIS | NOTÍCIAS",NHK HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/449
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 9
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1045
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/375px-NHK_World.svg.png" group-title="CANAIS | NOTÍCIAS",NHK
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/450
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 10
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1046
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/375px-Record_News_logo_2023.svg.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/451
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 11
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/809
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/375px-Record_News_logo_2023.svg.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/452
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 12" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 12
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/810
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 13
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/811
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 14" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 14
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/812
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 15
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/813
+#EXTINF:-1 tvg-id="TVSENADO" tvg-name="TV SENADO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/300px-TV_Senado.svg.png" group-title="CANAIS | NOTÍCIAS",TV SENADO HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1168
 
 #EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/225px-Baby_TV.png" group-title="CANAIS | DESENHO",BABY TV HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/342

@@ -3,6 +3,9 @@ sim#EXTM3U
 #EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/225px-Baby_TV.png" group-title="CANAIS | DESENHO",BABY TV HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/342
 
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/225px-Baby_TV.png" group-title="CANAIS | DESENHO",BABY TV
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/767
+
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/320px-Cartoonito_-_Logo_2021.svg.png" group-title="CANAIS | DESENHO",CARTOONITO HD
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8?ManoTV
 
@@ -38,3 +41,27 @@ http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/364
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/800px-Nick.png" group-title="CANAIS | DESENHO",Nickelodeon HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/365
+
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/800px-Nick.png" group-title="CANAIS | DESENHO",Nickelodeon
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/768
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/640px-Tooncast_logo.svg.png" group-title="CANAIS | DESENHO",TOONCAST HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/367
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/640px-Tooncast_logo.svg.png" group-title="CANAIS | DESENHO",TOONCAST
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/368
+
+#EXTINF:-1 tvg-id="TVRATIMBUM" tvg-name="TV RA TIM BUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TV_R%C3%A1-Tim-Bum.png/225px-TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS | DESENHO",TV RA TIM BUM HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/369
+
+#EXTINF:-1 tvg-id="TVRATIMBUM" tvg-name="TV RA TIM BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TV_R%C3%A1-Tim-Bum.png/225px-TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS | DESENHO",TV RA TIM BUM
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/557
+
+#EXTINF:-1 tvg-id="ZOOMOOKIDS" tvg-name="ZOOMOO KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/300px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="CANAIS | DESENHO",ZOOMOO KIDS HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/370
+
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png" group-title="CANAIS | DESENHO",CARTOON NETWORK HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1002
+
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png" group-title="CANAIS | DESENHO",CARTOON NETWORK
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/700

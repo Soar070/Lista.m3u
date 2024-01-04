@@ -1,5 +1,48 @@
 sim#EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 1
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/754
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 2
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/755
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 4
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1040
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 5
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1041
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 6
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1042
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 7
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1043
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 8
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1044
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 9
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1045
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 10
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1046
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 11
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/809
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 12" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 12
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/810
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 13
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/811
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 14" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 14
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/812
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925" group-title="CANAIS | CINE SKY",CINE SKY 15
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/813
+
 #EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/225px-Baby_TV.png" group-title="CANAIS | DESENHO",BABY TV HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/342
 

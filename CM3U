@@ -105,6 +105,15 @@ http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/452
 #EXTINF:-1 tvg-id="TVSENADO" tvg-name="TV SENADO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/300px-TV_Senado.svg.png" group-title="CANAIS | NOTÍCIAS",TV SENADO HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1168
 
+#EXTINF:-1 tvg-id="TVCÂMARADEDEPUTADOS" tvg-name="TV CÂMARA DE DEPUTADOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" group-title="CANAIS | NOTÍCIAS",TV CÂMARA DE DEPUTADOS HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1167
+
+#EXTINF:-1 tvg-id="JOVEMNEWS" tvg-name="JOVEM NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jovem_Pan_News_logo_2022.png/375px-Jovem_Pan_News_logo_2022.png" group-title="CANAIS | NOTÍCIAS",JOVEM NEWS HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="CANALGOV" tvg-name="CANAL GOV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/300px-Canal_Gov_Logo.png" group-title="CANAIS | NOTÍCIAS",CANAL GOV HD
+https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
 #EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/225px-Baby_TV.png" group-title="CANAIS | DESENHO",BABY TV HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/342
 

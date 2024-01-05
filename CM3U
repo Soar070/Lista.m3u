@@ -1,5 +1,65 @@
 sim#EXTM3U
 
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/294
+
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS | TELECINE",TELECINE ACTION
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/295
+
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/785
+
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS | TELECINE",TELECINE ACTION
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1019
+
+#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Cult_2019.png/800px-Telecine_Cult_2019.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/297
+
+#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Cult_2019.png/800px-Telecine_Cult_2019.png" group-title="CANAIS | TELECINE",TELECINE CULT
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/298
+
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Telecine_Fun_%282019%29.svg/375px-Telecine_Fun_%282019%29.svg.png" group-title="CANAIS | TELECINE",TELECINE FUN
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/300
+
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Telecine_Fun_%282019%29.svg/375px-Telecine_Fun_%282019%29.svg.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/301
+
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Telecine_Fun_%282019%29.svg/375px-Telecine_Fun_%282019%29.svg.png" group-title="CANAIS | TELECINE",TELECINE FUN
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/789
+
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/303
+
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/788
+
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/304
+
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/996
+
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/800px-Telecine_Premium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/306
+
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/800px-Telecine_Premium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/787
+
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/800px-Telecine_Premium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/307
+
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/800px-Telecine_Premium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/997
+
+#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Telecine_Touch_%282019%29.svg/1024px-Telecine_Touch_%282019%29.svg.png" group-title="CANAIS | TELECINE",TELECINE TOUCH
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/309
+
+#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Telecine_Touch_%282019%29.svg/1024px-Telecine_Touch_%282019%29.svg.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/310
+
+#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Telecine_Touch_%282019%29.svg/1024px-Telecine_Touch_%282019%29.svg.png" group-title="CANAIS | TELECINE",TELECINE TOUCH
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/786
+
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/320px-HBO-Logo.svg.png" group-title="CANAIS | HBO",HBO HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/251
 

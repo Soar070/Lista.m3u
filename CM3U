@@ -21,6 +21,9 @@ http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/233
 #EXTINF:-1 tvg-id="SONY" tvg-name="SONY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS |FILMES E SÉRIES",SONY CHANNEL HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/238
 
+#EXTINF:-1 tvg-id="SONYMOVEIS" tvg-name="SONY MOVEIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/300px-Sony_Movies_Logo.svg.png" group-title="CANAIS |FILMES E SÉRIES", SONY MÓVEIS HD
+https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
+
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" group-title="CANAIS |FILMES E SÉRIES",CINEMAX HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/240
 

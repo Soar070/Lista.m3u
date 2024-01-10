@@ -1,5 +1,23 @@
 sim#EXTM3U
 
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="CANAIS |GLOBO",GLOBO SP SD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/849
+
+#EXTINF:-1 tvg-id="Globobrasilia.br" tvg-name="GLOBO BRASÍLIA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="CANAIS |GLOBO",GLOBO BRASÍLIA HD
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/490
+
+#EXTINF:-1 tvg-id="tvtemsorocaba.br" tvg-name="TV TEM SOROCABA UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="CANAIS |GLOBO",TV TEM SOROCABA UHD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/562
+
+#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="TV TRIBUNA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="CANAIS |GLOBO",TV TRIBUNA SD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/564
+
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="TV VERDES MARES HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="CANAIS |GLOBO",TV VERDES MARES HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/566
+
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV BAHIA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="CANAIS |GLOBO",TV BAHIA HD
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/488
+
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",A&E HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/225
 

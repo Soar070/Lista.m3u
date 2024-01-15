@@ -144,127 +144,147 @@ http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/527
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD SP HD
 http://mn.appserv19.xyz:2095/Xplus-1-ieWG3lPGYN/gcZNJt2Plp/999
 
+#EXTINF:-1 tvg-id="RITTV" tvg-name="RIT TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b6/LOGO_RIT_2022_colorido.png/330px-LOGO_RIT_2022_colorido.png" group-title="CANAIS | RELIGIOSOS",RIT TV HD
+https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="TVEVANGELIZAR" tvg-name="TV EVANGELIZAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TV_Evangelizar_logo_2019.png/300px-TV_Evangelizar_logo_2019.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1051
+
+#EXTINF:-1 tvg-id="NOVOTEMPO" tvg-name="NOVO TEMPO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/300px-Logo_2015_-_TV_Novo_Tempo.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/556
+
+#EXTINF:-1 tvg-id="NOVOTEMPO" tvg-name="NOVO TEMPO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/300px-Logo_2015_-_TV_Novo_Tempo.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1053
+
+#EXTINF:-1 tvg-id="REDESUPER" tvg-name="REDE SUPER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png" group-title="CANAIS | RELIGIOSOS",REDE SUPER HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1054
+
+#EXTINF:-1 tvg-id="REDEVIDA" tvg-name="REDE VIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/300px-Rede_Vida_logo.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="TVAPARECIDA" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/542
+
+#EXTINF:-1 tvg-id="TVPAIETERNO" tvg-name="TV PAI ETERNO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/939
+
+#EXTINF:-1 tvg-id="CANÇÃONOVA" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA HD
+https://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Band_News_TV_2021.png/300px-Band_News_TV_2021.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/432
+
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Band_News_TV_2021.png/300px-Band_News_TV_2021.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/482
+
+#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="CNN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/300px-CNN_Brasil.svg.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/433
+
+#EXTINF:-1 tvg-id="CNNESPANHOL" tvg-name="CNN ESPANHOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/225px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/436
+
+#EXTINF:-1 tvg-id="CNNPORTUGAL" tvg-name="CNN PORTUGAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/300px-CNN_Portugal.svg.png" group-title="CANAIS | NOTÍCIAS",CNN PORTUGAL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/438
+
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1200px-Logotipo_da_GloboNews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/445
+
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1200px-Logotipo_da_GloboNews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/448
+
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/375px-NHK_World.svg.png" group-title="CANAIS | NOTÍCIAS",NHK HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/449
+
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/375px-NHK_World.svg.png" group-title="CANAIS | NOTÍCIAS",NHK
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/450
+
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/375px-Record_News_logo_2023.svg.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/451
+
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/375px-Record_News_logo_2023.svg.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/452
+
+#EXTINF:-1 tvg-id="TVSENADO" tvg-name="TV SENADO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/300px-TV_Senado.svg.png" group-title="CANAIS | NOTÍCIAS",TV SENADO HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1168
+
+#EXTINF:-1 tvg-id="TVCMARA" tvg-name="TV CÂMARA DE DEPUTADOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" group-title="CANAIS | NOTÍCIAS",TV CÂMARA DE DEPUTADOS HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1167
+
+#EXTINF:-1 tvg-id="JPNEWS" tvg-name="JP NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jovem_Pan_News_logo_2022.png/375px-Jovem_Pan_News_logo_2022.png" group-title="CANAIS | NOTÍCIAS",JP NEWS HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="CANALGOV" tvg-name="CANAL GOV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/300px-Canal_Gov_Logo.png" group-title="CANAIS | NOTÍCIAS",CANAL GOV HD
+https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/225px-Baby_TV.png" group-title="CANAIS | DESENHO",BABY TV HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/342
+
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/225px-Baby_TV.png" group-title="CANAIS | DESENHO",BABY TV
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/767
+
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/320px-Cartoonito_-_Logo_2021.svg.png" group-title="CANAIS | DESENHO",CARTOONITO HD
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="Discovery kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS | DESENHO",Discovery kids HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/348
+
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS | DESENHO",Discovery kids
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/349
+
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/472px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS | DESENHO",DISNEY CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/352
+
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/472px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS | DESENHO",DISNEY CHANNEL
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/351
+
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/320px-Gloob_logo.svg.png" group-title="CANAIS | DESENHO",GLOOB HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/357
+
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/320px-Gloob_logo.svg.png" group-title="CANAIS | DESENHO",GLOOB
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/358
+
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/285px-Gloobinho_logo.svg.png" group-title="CANAIS | DESENHO",GLOOBINHO HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/359
+
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/285px-Gloobinho_logo.svg.png" group-title="CANAIS | DESENHO",GLOOBINHO
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/360
+
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="NICK JR. HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="CANAIS | DESENHO",NICK JR. HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/363
+
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="NICK JR." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="CANAIS | DESENHO",NICK JR.
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/364
+
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/800px-Nick.png" group-title="CANAIS | DESENHO",Nickelodeon HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/365
+
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/800px-Nick.png" group-title="CANAIS | DESENHO",Nickelodeon
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/768
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/640px-Tooncast_logo.svg.png" group-title="CANAIS | DESENHO",TOONCAST HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/367
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/640px-Tooncast_logo.svg.png" group-title="CANAIS | DESENHO",TOONCAST
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/368
+
+#EXTINF:-1 tvg-id="TVRATIMBUM" tvg-name="TV RA TIM BUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TV_R%C3%A1-Tim-Bum.png/225px-TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS | DESENHO",TV RA TIM BUM HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/369
+
+#EXTINF:-1 tvg-id="TVRATIMBUM" tvg-name="TV RA TIM BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TV_R%C3%A1-Tim-Bum.png/225px-TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS | DESENHO",TV RA TIM BUM
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/557
+
+#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/300px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="CANAIS | DESENHO",ZOOMOO KIDS HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/370
+
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png" group-title="CANAIS | DESENHO",CARTOON NETWORK HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1002
+
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png" group-title="CANAIS | DESENHO",CARTOON NETWORK
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/700
 
 
+###################
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",A&E HD
-http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/225
-
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",AMC
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/228
-
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",AMC HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/229
-
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",AMC
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1020
-
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",AMC
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/790
-
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" group-title="CANAIS |FILMES E SÉRIES",AXN HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/233
-
-#EXTINF:-1 tvg-id="SONY" tvg-name="SONY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS |FILMES E SÉRIES",SONY CHANNEL HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/238
-
-#EXTINF:-1 tvg-id="SONYMOVEIS" tvg-name="SONY MOVEIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/300px-Sony_Movies_Logo.svg.png" group-title="CANAIS |FILMES E SÉRIES", SONY MÓVEIS HD
-https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" group-title="CANAIS |FILMES E SÉRIES",CINEMAX HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/240
-
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" group-title="CANAIS |FILMES E SÉRIES",CINEMAX
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/239
-
-#EXTINF:-1 tvg-id="FILMARTS" tvg-name="FILM & ARTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="CANAIS |FILMES E SÉRIES",FILM & ARTS HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/242
-
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/320px-FX_International_logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",FX HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/244
-
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/240px-Lifetime_logo17.svg.png" group-title="CANAIS |FILMES E SÉRIES",LIFETIME HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/269
-
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SÉRIES",MEGAPIX
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/270
-
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SÉRIES",MEGAPIX HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/271
-
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SÉRIES",MEGAPIX
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/998
-
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/263px-Paramount_Network.svg.png" group-title="CANAIS |FILMES E SÉRIES",PARAMOUNT NETWORK
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/275
-
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/263px-Paramount_Network.svg.png" group-title="CANAIS |FILMES E SÉRIES",PARAMOUNT NETWORK HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/276
-
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/320px-SpaceLogo.svg.png" group-title="CANAIS |FILMES E SÉRIES",SPACE HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/278
-
-#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SÉRIES",STAR CHANNEL HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/282
-
-#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SÉRIES",STAR CHANNEL
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/281
-
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png" group-title="CANAIS |FILMES E SÉRIES",STUDIO UNIVERSAL HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/289
-
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/640px-SYFY.svg.png" group-title="CANAIS |FILMES E SÉRIES",SYFY HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/781
-
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS |FILMES E SÉRIES",TCM HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/292
-
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS |FILMES E SÉRIES",TCM
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/293
-
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",TNT
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/312
-
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",TNT HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/313
-
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",TNT
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1004
-
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SÉRIES",TNT SÉRIES HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/315
-
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SÉRIES",TNT SÉRIES
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/875
-
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",UNIVERSAL TV HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/319
-
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",UNIVERSAL TV
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/792
-
-#EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="WARNER CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SÉRIES",WARNER CHANNEL HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/320
-
-#EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SÉRIES",WARNER CHANNEL
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/783
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",ANIMAL PLANET HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/994
@@ -425,6 +445,112 @@ http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/879
 #EXTINF:-1 tvg-id="SABORARTE" tvg-name="SABOR & ARTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/877
 
+
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",A&E HD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/225
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",AMC
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/228
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",AMC HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/229
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",AMC
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1020
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/320px-AMC_logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",AMC
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/790
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" group-title="CANAIS |FILMES E SÉRIES",AXN HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/233
+
+#EXTINF:-1 tvg-id="SONY" tvg-name="SONY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS |FILMES E SÉRIES",SONY CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/238
+
+#EXTINF:-1 tvg-id="SONYMOVEIS" tvg-name="SONY MOVEIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/300px-Sony_Movies_Logo.svg.png" group-title="CANAIS |FILMES E SÉRIES", SONY MÓVEIS HD
+https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" group-title="CANAIS |FILMES E SÉRIES",CINEMAX HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/240
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/349px-Cinemax_%28Yellow%29.svg.png" group-title="CANAIS |FILMES E SÉRIES",CINEMAX
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/239
+
+#EXTINF:-1 tvg-id="FILMARTS" tvg-name="FILM & ARTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="CANAIS |FILMES E SÉRIES",FILM & ARTS HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/242
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/320px-FX_International_logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",FX HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/244
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/240px-Lifetime_logo17.svg.png" group-title="CANAIS |FILMES E SÉRIES",LIFETIME HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/269
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SÉRIES",MEGAPIX
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/270
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SÉRIES",MEGAPIX HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/271
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/320px-Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS |FILMES E SÉRIES",MEGAPIX
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/998
+
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/263px-Paramount_Network.svg.png" group-title="CANAIS |FILMES E SÉRIES",PARAMOUNT NETWORK
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/275
+
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/263px-Paramount_Network.svg.png" group-title="CANAIS |FILMES E SÉRIES",PARAMOUNT NETWORK HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/276
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/320px-SpaceLogo.svg.png" group-title="CANAIS |FILMES E SÉRIES",SPACE HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/278
+
+#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SÉRIES",STAR CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/282
+
+#EXTINF:-1 tvg-id="Starchannel.br" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS |FILMES E SÉRIES",STAR CHANNEL
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/281
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png" group-title="CANAIS |FILMES E SÉRIES",STUDIO UNIVERSAL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/289
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/640px-SYFY.svg.png" group-title="CANAIS |FILMES E SÉRIES",SYFY HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/781
+
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS |FILMES E SÉRIES",TCM HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/292
+
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS |FILMES E SÉRIES",TCM
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/293
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",TNT
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/312
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",TNT HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/313
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/240px-TNT_Logo_2016.svg.png" group-title="CANAIS |FILMES E SÉRIES",TNT
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1004
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SÉRIES",TNT SÉRIES HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/315
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS |FILMES E SÉRIES",TNT SÉRIES
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/875
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",UNIVERSAL TV HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/319
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",UNIVERSAL TV
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/792
+
+#EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="WARNER CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SÉRIES",WARNER CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/320
+
+#EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SÉRIES",WARNER CHANNEL
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/783
+
+
+
 #EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/294
 
@@ -553,144 +679,6 @@ http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/256
 
 #EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/320px-HBO_Mundi.svg.png" group-title="CANAIS | HBO",HBO MUNDI HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/257
-
-#EXTINF:-1 tvg-id="RITTV" tvg-name="RIT TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b6/LOGO_RIT_2022_colorido.png/330px-LOGO_RIT_2022_colorido.png" group-title="CANAIS | RELIGIOSOS",RIT TV HD
-https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="TVEVANGELIZAR" tvg-name="TV EVANGELIZAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TV_Evangelizar_logo_2019.png/300px-TV_Evangelizar_logo_2019.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1051
-
-#EXTINF:-1 tvg-id="NOVOTEMPO" tvg-name="NOVO TEMPO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/300px-Logo_2015_-_TV_Novo_Tempo.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/556
-
-#EXTINF:-1 tvg-id="NOVOTEMPO" tvg-name="NOVO TEMPO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/300px-Logo_2015_-_TV_Novo_Tempo.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1053
-
-#EXTINF:-1 tvg-id="REDESUPER" tvg-name="REDE SUPER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png" group-title="CANAIS | RELIGIOSOS",REDE SUPER HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1054
-
-#EXTINF:-1 tvg-id="REDEVIDA" tvg-name="REDE VIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/300px-Rede_Vida_logo.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="TVAPARECIDA" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/542
-
-#EXTINF:-1 tvg-id="TVPAIETERNO" tvg-name="TV PAI ETERNO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/939
-
-#EXTINF:-1 tvg-id="CANÇÃONOVA" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA HD
-https://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
-
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Band_News_TV_2021.png/300px-Band_News_TV_2021.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/432
-
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Band_News_TV_2021.png/300px-Band_News_TV_2021.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/482
-
-#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="CNN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/300px-CNN_Brasil.svg.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/433
-
-#EXTINF:-1 tvg-id="CNNESPANHOL" tvg-name="CNN ESPANHOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/225px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/436
-
-#EXTINF:-1 tvg-id="CNNPORTUGAL" tvg-name="CNN PORTUGAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/300px-CNN_Portugal.svg.png" group-title="CANAIS | NOTÍCIAS",CNN PORTUGAL HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/438
-
-#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1200px-Logotipo_da_GloboNews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/445
-
-#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1200px-Logotipo_da_GloboNews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/448
-
-#EXTINF:-1 tvg-id="NHK" tvg-name="NHK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/375px-NHK_World.svg.png" group-title="CANAIS | NOTÍCIAS",NHK HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/449
-
-#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/375px-NHK_World.svg.png" group-title="CANAIS | NOTÍCIAS",NHK
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/450
-
-#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/375px-Record_News_logo_2023.svg.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/451
-
-#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/375px-Record_News_logo_2023.svg.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/452
-
-#EXTINF:-1 tvg-id="TVSENADO" tvg-name="TV SENADO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/300px-TV_Senado.svg.png" group-title="CANAIS | NOTÍCIAS",TV SENADO HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1168
-
-#EXTINF:-1 tvg-id="TVCMARA" tvg-name="TV CÂMARA DE DEPUTADOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" group-title="CANAIS | NOTÍCIAS",TV CÂMARA DE DEPUTADOS HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1167
-
-#EXTINF:-1 tvg-id="JPNEWS" tvg-name="JP NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jovem_Pan_News_logo_2022.png/375px-Jovem_Pan_News_logo_2022.png" group-title="CANAIS | NOTÍCIAS",JP NEWS HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="CANALGOV" tvg-name="CANAL GOV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/300px-Canal_Gov_Logo.png" group-title="CANAIS | NOTÍCIAS",CANAL GOV HD
-https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/225px-Baby_TV.png" group-title="CANAIS | DESENHO",BABY TV HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/342
-
-#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/225px-Baby_TV.png" group-title="CANAIS | DESENHO",BABY TV
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/767
-
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/320px-Cartoonito_-_Logo_2021.svg.png" group-title="CANAIS | DESENHO",CARTOONITO HD
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="Discovery kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS | DESENHO",Discovery kids HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/348
-
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS | DESENHO",Discovery kids
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/349
-
-#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/472px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS | DESENHO",DISNEY CHANNEL HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/352
-
-#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/472px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS | DESENHO",DISNEY CHANNEL
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/351
-
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/320px-Gloob_logo.svg.png" group-title="CANAIS | DESENHO",GLOOB HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/357
-
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/320px-Gloob_logo.svg.png" group-title="CANAIS | DESENHO",GLOOB
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/358
-
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/285px-Gloobinho_logo.svg.png" group-title="CANAIS | DESENHO",GLOOBINHO HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/359
-
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/285px-Gloobinho_logo.svg.png" group-title="CANAIS | DESENHO",GLOOBINHO
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/360
-
-#EXTINF:-1 tvg-id="NICKJR" tvg-name="NICK JR. HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="CANAIS | DESENHO",NICK JR. HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/363
-
-#EXTINF:-1 tvg-id="NICKJR" tvg-name="NICK JR." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="CANAIS | DESENHO",NICK JR.
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/364
-
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/800px-Nick.png" group-title="CANAIS | DESENHO",Nickelodeon HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/365
-
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/800px-Nick.png" group-title="CANAIS | DESENHO",Nickelodeon
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/768
-
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/640px-Tooncast_logo.svg.png" group-title="CANAIS | DESENHO",TOONCAST HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/367
-
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/640px-Tooncast_logo.svg.png" group-title="CANAIS | DESENHO",TOONCAST
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/368
-
-#EXTINF:-1 tvg-id="TVRATIMBUM" tvg-name="TV RA TIM BUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TV_R%C3%A1-Tim-Bum.png/225px-TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS | DESENHO",TV RA TIM BUM HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/369
-
-#EXTINF:-1 tvg-id="TVRATIMBUM" tvg-name="TV RA TIM BUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TV_R%C3%A1-Tim-Bum.png/225px-TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS | DESENHO",TV RA TIM BUM
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/557
-
-#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/300px-ZooMoo-Kids-Logo-Oficial-01.png" group-title="CANAIS | DESENHO",ZOOMOO KIDS HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/370
-
-#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png" group-title="CANAIS | DESENHO",CARTOON NETWORK HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1002
-
-#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png" group-title="CANAIS | DESENHO",CARTOON NETWORK
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/700
 
 #EXTINF:-1 tvg-id="ESPNEXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="CANAIS | ESPN",ESPN EXTRA
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/133

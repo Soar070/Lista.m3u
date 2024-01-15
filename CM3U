@@ -857,8 +857,20 @@ http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/172
 #EXTINF:-1 tvg-id="SPORTV2" tvg-name="SPORTV 2 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/320px-SporTV_2_2017_logo.svg.png" group-title="CANAIS |SPORTV",SPORTV 2 UHD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
 
+#EXTINF:-1 tvg-id="SPORTV2" tvg-name="SPORTV 2 UHD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/320px-SporTV_2_2017_logo.svg.png" group-title="CANAIS |SPORTV",SPORTV 2 UHD²
+http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/172.ts
+
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="CANAIS |SPORTV",SPORTV 3 HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/175
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/175
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="CANAIS |SPORTV",SPORTV 3 HD²
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES 4K
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/164

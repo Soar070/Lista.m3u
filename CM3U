@@ -821,10 +821,10 @@ http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/274
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://woohoo.com.br/wp-content/uploads/2021/01/logo-woohoo-10.png" group-title="CANAIS | ESPORTES",WOOHOO HD
 http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/117.ts
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="RED BULL TV FHD" tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="CANAIS | ESPORTES",RED BULL TV FHD
+#EXTINF:-1 tvg-id="REDBULL" tvg-name="RED BULL TV FHD" tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="CANAIS | ESPORTES",RED BULL TV FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-id="Redbull.br" tvg-name="RED BULL TV HD" tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="CANAIS | ESPORTES",RED BULL TV HD
+#EXTINF:-1 tvg-id="REDBULL" tvg-name="RED BULL TV HD" tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="CANAIS | ESPORTES",RED BULL TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
@@ -860,10 +860,10 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
 #EXTINF:-1 tvg-id="SPORTV2" tvg-name="SPORTV 2 UHD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/320px-SporTV_2_2017_logo.svg.png" group-title="CANAIS |SPORTV",SPORTV 2 UHD²
 http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/172.ts
 
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="CANAIS |SPORTV",SPORTV 3 HD
+#EXTINF:-1 tvg-id="SPORTV3" tvg-name="SPORTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="CANAIS |SPORTV",SPORTV 3 HD
 http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/175
 
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="CANAIS |SPORTV",SPORTV 3 HD²
+#EXTINF:-1 tvg-id="SPORTV3" tvg-name="SPORTV 3 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="CANAIS |SPORTV",SPORTV 3 HD²
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
 
 

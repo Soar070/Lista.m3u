@@ -109,7 +109,7 @@ http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/562
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/564
 
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="TV VERDES MARES HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="CANAIS |GLOBO",TV VERDES MARES HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/566
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/566
 
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV BAHIA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="CANAIS |GLOBO",TV BAHIA HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/488
@@ -797,11 +797,11 @@ http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/130.ts
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN BRASIL HD³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="CANAIS | ESPN",ESPN BRASIL HD³
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
 
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="CANAIS | ESPN",ESPN 2
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/135
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="CANAIS | ESPN",ESPN 2 HD¹
+http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/135.ts
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="CANAIS | ESPN",ESPN 2 HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/129
+http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/129.ts
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="CANAIS | ESPN",ESPN 3
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/127

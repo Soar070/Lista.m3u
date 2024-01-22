@@ -217,19 +217,19 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/pl
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
 #EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/225px-Baby_TV.png" group-title="CANAIS | DESENHO",BABY TV HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/342
+http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/342.ts
 
 #EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/225px-Baby_TV.png" group-title="CANAIS | DESENHO",BABY TV
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/767
+http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/767.ts
 
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/320px-Cartoonito_-_Logo_2021.svg.png" group-title="CANAIS | DESENHO",CARTOONITO HD
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="Discovery kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS | DESENHO",Discovery kids HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/348
+http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/348.ts
 
 #EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS | DESENHO",Discovery kids
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/349
+http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/349.ts
 
 #EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/472px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS | DESENHO",DISNEY CHANNEL HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/352
@@ -777,13 +777,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-id="ESPNEXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="CANAIS | ESPN",ESPN EXTRA
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/133
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/133
 
 #EXTINF:-1 tvg-id="ESPNEXTRA" tvg-name="ESPN EXTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="CANAIS | ESPN",ESPN EXTRA HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/134
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/134
 
 #EXTINF:-1 tvg-id="ESPNEXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="CANAIS | ESPN",ESPN EXTRA
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1005
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/1005
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN BRASIL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="CANAIS | ESPN",ESPN BRASIL FHD 
 http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
@@ -798,28 +798,31 @@ http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/130.ts
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="CANAIS | ESPN",ESPN 2 HD¹
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/135
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="CANAIS | ESPN",ESPN 2 HD²
 http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/135.ts
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="CANAIS | ESPN",ESPN 2 HD
 http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/129.ts
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="CANAIS | ESPN",ESPN 3
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/127
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/127
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="CANAIS | ESPN",ESPN 3 HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/126
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/126
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="CANAIS | ESPN",ESPN 3
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/995
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/995
 
 #EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="CANAIS | ESPN",ESPN 4
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/142
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/142
 
 #EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="CANAIS | ESPN",ESPN 4 HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/143
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/143
 
 #EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="CANAIS | ESPN",ESPN 4
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1007
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/1007
 
 
 #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS |SPORTV",SPORTV HD
@@ -849,6 +852,7 @@ http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/175
 #EXTINF:-1 tvg-id="SPORTV3" tvg-name="SPORTV 3 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/800px-SporTV3_2021.png" group-title="CANAIS |SPORTV",SPORTV 3 HD²
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
 
+##################################################################################
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES 4K
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/164

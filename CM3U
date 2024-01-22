@@ -912,3 +912,53 @@ http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/158
 
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/160
+
+
+############################################################################ Canais | RÁDIO
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Pagode 
+https://hls.hunter.fm/pagode/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Anos 80 retrô
+https://hls.hunter.fm/80s/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Sertanejo
+https://hls.hunter.fm/sertanejo/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Hits Brasil 
+https://hls.hunter.fm/hitsbrasil/64.m3u8?shtl=7KWu3SjMvgY-GhV1-8B6b9rB.lpykqpyxgqfSK4vGJSb3tqheOVp2UggEshcePVZJDVw
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Pisadinha
+https://hls.hunter.fm/pisadinha/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Pop
+https://hls.hunter.fm/pop/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Pop 2
+https://hls.hunter.fm/pop2k/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="RÁDIO",Rádio POP
+https://stm16.xcast.com.br:12918/stream
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Gospel
+https://hls.hunter.fm/gospel/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Moda Sertaneja
+https://hls.hunter.fm/modasertaneja/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO", Tropical 
+https://hls.hunter.fm/tropical/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Rock
+https://hls.hunter.fm/rock/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/11DH4AQ.png" group-title="RÁDIO",ATIVIDADE FM 87.9 Canudos BA
+http://atividadefm879.html5player.acessaradios.com.br:9256/atividadefm879
+
+#EXTINF:-1  tvg-logo="https://imgur.com/sxxaEKP.png" group-title="RÁDIO",JERE FM 106.9 JEREMOABO BA
+http://172.82.160.250:8309/stream
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ns3uV8S.png" group-title="RÁDIO",Energia 97
+https://streaming.inweb.com.br/energia

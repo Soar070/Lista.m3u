@@ -53,3 +53,91 @@ http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/114
 
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/WOOHOO.png" group-title="CANAIS | ENTRETENIMENTO",WOOHOO HD
 http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/117
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/994
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",ANIMAL PLANET
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/61
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/65
+
+#EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="DISCOVERY H&H HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/300px-Discovery_H%26H_Logo_2022.webp.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY H&H HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/67
+
+#EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/300px-Discovery_H%26H_Logo_2022.webp.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY H&H
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/68
+
+#EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/300px-Discovery_H%26H_Logo_2022.webp.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY H&H
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1021
+
+#EXTINF:-1 tvg-id="id" tvg-name="DISCOVERY ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/216px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY ID HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/70
+
+#EXTINF:-1 tvg-id="id" tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/216px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY ID
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/69
+
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/375px-Science_Channel_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/72
+
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/375px-Science_Channel_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY SCIENCE
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/71
+
+#EXTINF:-1 tvg-id="Discoverytheaterhd.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY THEATER HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/73
+
+#EXTINF:-1 tvg-id="Discoverytheaterhd.br" tvg-name="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY THEATER 
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/74
+
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY TURBO HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/75
+
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY TURBO
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1022
+
+#EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY WORLD HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/78
+
+#EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",DISCOVERY WORLD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/77
+
+#EXTINF:-1 tvg-id="FISHTV" tvg-name="FISH TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/640px-Fish_TV_logo_2022.svg.png"
+group-title="CANAIS |DOCUMENTÁRIOS",FISH TV HD
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/79
+
+#EXTINF:-1 tvg-id="FISHTV" tvg-name="FISH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/640px-Fish_TV_logo_2022.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",FISH TV
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/80
+
+#EXTINF:-1 tvg-id="H2.br" tvg-name="History 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/270px-History2Logo2019.png" group-title="CANAIS |DOCUMENTÁRIOS",History 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/81
+
+#EXTINF:-1 tvg-id="H2.br" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/270px-History2Logo2019.png" group-title="CANAIS |DOCUMENTÁRIOS",History 2
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/815
+
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/320px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",HGTV HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/552
+
+#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/320px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",HGTV
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/816
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",HISTORY CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/83
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",HISTORY CHANNEL 
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/82
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS |DOCUMENTÁRIOS",National Geographic HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/88
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS |DOCUMENTÁRIOS",National Geographic
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/87
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/320px-TLC_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",TLC HD
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/91
+
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/320px-TLC_Logo.svg.png" group-title="CANAIS |DOCUMENTÁRIOS",TLC
+http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/92
+
+#EXTINF:-1 tvg-id="TRAVELBOXBRAZIL" tvg-name="TRAVEL BOX BRAZIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TravelBoxBrazillogoatualizado.png/300px-TravelBoxBrazillogoatualizado.png" group-title="CANAIS |DOCUMENTÁRIOS",TRAVEL BOX BRAZIL HD
+http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/848.ts

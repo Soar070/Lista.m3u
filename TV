@@ -7,7 +7,7 @@ sim#EXTM3U
 
 
 #EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CurtaRelevante.png/375px-CurtaRelevante.png" group-title="CANAIS | ENTRETENIMENTO",CURTA HD
-
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DOGTV" tvg-name="DOG TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/300px-DOGTV_logo.svg.png" group-title="CANAIS | ENTRETENIMENTO",DOG TV HD
 
@@ -22,7 +22,7 @@ sim#EXTM3U
 
 
 #EXTINF:-1 tvg-id="FOODNETWORK" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Food_Network_-_Logo_2016.png/300px-Food_Network_-_Logo_2016.png" group-title="CANAIS | ENTRETENIMENTO",FOOD NETWORK HD
-
+https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="FOODNETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Food_Network_-_Logo_2016.png/300px-Food_Network_-_Logo_2016.png" group-title="CANAIS | ENTRETENIMENTO",FOOD NETWORK
 
@@ -37,8 +37,6 @@ sim#EXTM3U
 
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/VIVA_UK.png/300px-VIVA_UK.png" group-title="CANAIS | ENTRETENIMENTO",VIVA HD
-
+http://64.31.40.14:14884/
 
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/WOOHOO.png" group-title="CANAIS | ENTRETENIMENTO",WOOHOO HD
-
-

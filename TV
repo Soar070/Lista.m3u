@@ -1,0 +1,44 @@
+sim#EXTM3U
+
+#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png" group-title="CANAIS | ENTRETENIMENTO",COMEDY CENTRAL HD
+
+
+#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png" group-title="CANAIS | ENTRETENIMENTO",COMEDY CENTRAL
+
+
+#EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CurtaRelevante.png/375px-CurtaRelevante.png" group-title="CANAIS | ENTRETENIMENTO",CURTA HD
+
+
+#EXTINF:-1 tvg-id="DOGTV" tvg-name="DOG TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/300px-DOGTV_logo.svg.png" group-title="CANAIS | ENTRETENIMENTO",DOG TV HD
+
+
+#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/149px-E%21_Logo_2012.svg.png" group-title="CANAIS | ENTRETENIMENTO",E! HD
+
+
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/149px-E%21_Logo_2012.svg.png" group-title="CANAIS | ENTRETENIMENTO",E!
+
+
+#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHION TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/345px-FashionTV2019novo.png" group-title="CANAIS | ENTRETENIMENTO",FASHION TV HD
+
+
+#EXTINF:-1 tvg-id="FOODNETWORK" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Food_Network_-_Logo_2016.png/300px-Food_Network_-_Logo_2016.png" group-title="CANAIS | ENTRETENIMENTO",FOOD NETWORK HD
+
+
+#EXTINF:-1 tvg-id="FOODNETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Food_Network_-_Logo_2016.png/300px-Food_Network_-_Logo_2016.png" group-title="CANAIS | ENTRETENIMENTO",FOOD NETWORK
+
+
+#EXTINF:-1 tvg-id="MODOVIAGEM" tvg-name="MODO VIAGEM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/300px-Logotipo_do_Modo_Viagem.svg.png" group-title="CANAIS | ENTRETENIMENTO",MODO VIAGEM HD
+
+
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/300px-GNT_logo-roxo.svg.png" group-title="CANAIS | ENTRETENIMENTO",GNT HD
+
+
+#EXTINF:-1 tvg-id="SABOR&ARTE" tvg-name="SABOR & ARTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="CANAIS | ENTRETENIMENTO",SABOR & ARTE HD
+
+
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/VIVA_UK.png/300px-VIVA_UK.png" group-title="CANAIS | ENTRETENIMENTO",VIVA HD
+
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/WOOHOO.png" group-title="CANAIS | ENTRETENIMENTO",WOOHOO HD
+
+

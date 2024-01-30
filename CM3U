@@ -9,10 +9,10 @@ https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/ind
 #EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV! PR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! PR HD
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="" tvg-name="ESFLIX TV" tvg-logo="https://imgur.com/YXvSdlo.png" group-title="CANAIS | ABERTO",ESFLIX TV
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV! PI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! PI SD
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w157393531.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/YXvSdlo.png" group-title="Canais | ABERTO",ESFLIX TV
+#EXTINF:-1 tvg-id="" tvg-name="ESFLIX TV" tvg-logo="https://imgur.com/YXvSdlo.png" group-title="CANAIS | ABERTO",ESFLIX TV
 https://acesso.ecast.site:3186/live/esflixlive.m3u8
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="CANAIS | ABERTOS",TV GAZETA HD

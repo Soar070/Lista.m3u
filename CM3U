@@ -1,13 +1,19 @@
 sim#EXTM3U
 
-#EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV! RO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! RO HD
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV!" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV!
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV! PI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! PI HD
-https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklistw157393531.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV! SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! SD
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV! SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! SD
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV! PR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! PR HD
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="REDETV.br" tvg-name="REDE TV! PI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS | ABERTOS",REDE TV! PI SD
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w157393531.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YXvSdlo.png" group-title="Canais | ABERTO",ESFLIX TV
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="CANAIS | ABERTOS",TV GAZETA HD
 https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w477325099.m3u8
@@ -144,32 +150,40 @@ http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT//527
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS |RECORD",RECORD SP HD
 http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT//999
 
+
+############################################################################ Canais | RELIGIOSOS
+
+
 #EXTINF:-1 tvg-id="RITTV" tvg-name="RIT TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b6/LOGO_RIT_2022_colorido.png/330px-LOGO_RIT_2022_colorido.png" group-title="CANAIS | RELIGIOSOS",RIT TV HD
 https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TVEVANGELIZAR" tvg-name="TV EVANGELIZAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TV_Evangelizar_logo_2019.png/300px-TV_Evangelizar_logo_2019.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1051
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/1051
 
 #EXTINF:-1 tvg-id="NOVOTEMPO" tvg-name="NOVO TEMPO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/300px-Logo_2015_-_TV_Novo_Tempo.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/556
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/556
 
 #EXTINF:-1 tvg-id="NOVOTEMPO" tvg-name="NOVO TEMPO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/300px-Logo_2015_-_TV_Novo_Tempo.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1053
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/1053
 
 #EXTINF:-1 tvg-id="REDESUPER" tvg-name="REDE SUPER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png" group-title="CANAIS | RELIGIOSOS",REDE SUPER HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/1054
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/1054
 
 #EXTINF:-1 tvg-id="REDEVIDA" tvg-name="REDE VIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/300px-Rede_Vida_logo.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="TVAPARECIDA" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/542
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/542
 
 #EXTINF:-1 tvg-id="TVPAIETERNO" tvg-name="TV PAI ETERNO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
-http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/939
+http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/939
 
 #EXTINF:-1 tvg-id="CANÇÃONOVA" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA HD
 https://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
+
+
+############################################################################ Canais | NOTICIAS
+
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Band_News_TV_2021.png/300px-Band_News_TV_2021.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
 http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/432
@@ -215,6 +229,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/pl
 
 #EXTINF:-1 tvg-id="CANALGOV" tvg-name="CANAL GOV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/300px-Canal_Gov_Logo.png" group-title="CANAIS | NOTÍCIAS",CANAL GOV HD
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+
+############################################################################ Canais | DESENHO
+
 
 #EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Baby_TV.png/225px-Baby_TV.png" group-title="CANAIS | DESENHO",BABY TV HD
 http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/342.ts

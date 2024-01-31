@@ -117,6 +117,12 @@ http://mn.appserv19.xyz:2095/Xplus-1-ClpRjmINxo/1oOGH9RPED/564
 #EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="TV VERDES MARES HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="CANAIS |GLOBO",TV VERDES MARES HD
 http://mn.appserv19.xyz:2095/Xplus-1-Sab67KzGjC/MItFcCLLdT/566
 
+#EXTINF:-1 tvg-id="VERDESMARES" tvg-name="TV VERDES MARES HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="CANAIS |GLOBO",TV VERDES MARES HD¹
+http://warez.la:80/live/4891703/7318938/944838.ts
+
+#EXTINF:-1 tvg-id="VERDESMARES" tvg-name="TV VERDES MARES HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="CANAIS |GLOBO",TV VERDES MARES HD⅖
+http://blazehd.online:80/live/andreia1234/andreia1234/39088.ts
+
 #EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV BAHIA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="CANAIS |GLOBO",TV BAHIA HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/488
 

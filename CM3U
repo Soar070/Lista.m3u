@@ -6,6 +6,18 @@ http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/1011.ts
 #EXTINF:-1 tvg-id="EPVRPRETO" tvg-name="EPTV RIBEIRÃO PRETO HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/300px-EPTV.png" group-title="CANAIS |GLOBO",EPTV RIBEIRÃO PRETO HD²
 http://globo.balance-test.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/62
 
+#EXTINF:-1 tvg-id="eptvcampinas" tvg-name="EPTV CAMPINAS HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/300px-EPTV.png" group-title="CANAIS |GLOBO",EPTV CAMPINAS HD¹
+http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/780.ts
+
+#EXTINF:-1 tvg-id="eptvcampinas" tvg-name="EPTV CAMPINAS HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/300px-EPTV.png" group-title="CANAIS |GLOBO",EPTV CAMPINAS HD²
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
+
+#EXTINF:-1 tvg-id="eptvcampinas" tvg-name="EPTV CAMPINAS HD³" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/300px-EPTV.png" group-title="CANAIS |GLOBO",EPTV CAMPINAS HD³
+http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/491.ts
+
+#EXTINF:-1 tvg-id="Eptvsulminas" tvg-name="EPTV SUL DE MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/300px-EPTV.png" group-title="CANAIS |GLOBO",EPTV SUL DE MINAS HD
+http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/1012.ts
+
 #EXTINF:-1 tvg-id="TVBAHIA" tvg-name="TV BAHIA HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_TV_Bahia.png/270px-Logotipo_TV_Bahia.png" group-title="CANAIS |GLOBO",TV BAHIA HD¹
 http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/488.ts
 
@@ -17,9 +29,3 @@ http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/490.ts
 
 #EXTINF:-1 tvg-id="Globobrasilia" tvg-name="GLOBO BRASÍLIA HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-1.png" group-title="CANAIS |GLOBO",GLOBO BRASÍLIA HD²
 http://globo.balance-test.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/68
-
-#EXTINF:-1 tvg-id="eptvcampinas" tvg-name="EPTV CAMPINAS HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/300px-EPTV.png" group-title="CANAIS |GLOBO",EPTV CAMPINAS HD¹
-http://78.159.119.122:2095/live/Tourobox1-GPJrYsbSp5/njuU45RbWX/780.ts
-
-#EXTINF:-1 tvg-id="eptvcampinas" tvg-name="EPTV CAMPINAS HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/300px-EPTV.png" group-title="CANAIS |GLOBO",EPTV CAMPINAS HD²
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2

@@ -59,3 +59,6 @@ http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/90
 
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SÉRIES",WARNER CHANNEL HD
 http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/93
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="CANAIS | ESPN",ESPN BRASIL HD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/24

@@ -60,5 +60,23 @@ http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/90
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png" group-title="CANAIS |FILMES E SÉRIES",WARNER CHANNEL HD
 http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/93
 
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/77
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Cult_2019.png/800px-Telecine_Cult_2019.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/78
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Telecine_Fun_%282019%29.svg/375px-Telecine_Fun_%282019%29.svg.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/79
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Telecine_Pipoca.png/800px-Telecine_Pipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/80
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/800px-Telecine_Premium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/81
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Telecine_Touch_%282019%29.svg/1024px-Telecine_Touch_%282019%29.svg.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
+http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/82
+
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="CANAIS | ESPN",ESPN BRASIL HD
 http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/24

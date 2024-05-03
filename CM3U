@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="kung fusao" tvg-logo="https://br.web.img3.acsta.net/pictures/210/211/21021105_20130718205428458.jpg" group-title="CANAIS | FILMES ONLINE",kung fusao
+https://stader.pro/a1/out/old/7/127/127_11864653kung-fusao.m3u8
+
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/320px-A%26E-Network-Logo.svg.png" group-title="CANAIS |FILMES E SÉRIES",A&E HD
 http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/1
 
